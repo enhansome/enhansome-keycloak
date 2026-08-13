@@ -1,0 +1,2272 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub Discussions",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-13T20:39:22Z",
+            "owner": "keycloak",
+            "repo": "keycloak",
+            "stars": 36168
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Keycloak OAuth SIG",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-08-12T21:43:19Z",
+            "owner": "keycloak",
+            "repo": "keycloak-oauth-sig",
+            "stars": 101
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Keycloak SRE SIG",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Handlebars",
+            "last_commit": "2026-07-16T18:50:49Z",
+            "owner": "keycloak",
+            "repo": "keycloak-sre-sig",
+            "stars": 29
+          }
+        }
+      ],
+      "title": "Community, SIGs, Discussion Forums and Mailing Lists"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Kong / Konga / Keycloak: securing API through OIDC",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2024-04-05T10:51:08Z",
+            "owner": "d4rkstar",
+            "repo": "kong-konga-keycloak",
+            "stars": 300
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Keycloak Clustering Setup and Configuration Examples",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2019-08-16T07:01:04Z",
+            "owner": "fit2anything",
+            "repo": "keycloak-cluster-setup-and-configuration",
+            "stars": 50
+          }
+        }
+      ],
+      "title": "Articles"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Keycloak Node.js TypeScript Admin Client by Canner",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": null,
+            "last_commit": "2023-03-30T10:42:31Z",
+            "owner": "keycloak",
+            "repo": "keycloak-nodejs-admin-client",
+            "stars": 604
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Keycloak Nest.js Admin Client by Relevant Fruit",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-06-29T02:54:36Z",
+            "owner": "anonrig",
+            "repo": "nestjs-keycloak-admin",
+            "stars": 191
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Keycloak Mock Library",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-12T14:55:06Z",
+            "owner": "TNG",
+            "repo": "keycloak-mock",
+            "stars": 135
+          }
+        },
+        {
+          "node_type": "item",
+          "title": ".NET / C# Keycloak.RestApiClient",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Mustache",
+            "last_commit": "2026-04-11T16:19:12Z",
+            "owner": "fschick",
+            "repo": "Keycloak.RestApiClient",
+            "stars": 86
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Keycloak Go Client by Cloudtrust",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-03T08:21:24Z",
+            "owner": "cloudtrust",
+            "repo": "keycloak-client",
+            "stars": 25
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ACKC: Python API Client for Keycloak",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-08-07T09:38:12Z",
+            "owner": "acie-io",
+            "repo": "ackc",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Official Keycloak Node.js Admin Client",
+          "description": "(\"Extremely Experimental\")",
+          "children": []
+        }
+      ],
+      "title": "Clients"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Keyloak Proxy written in Go",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Go",
+            "last_commit": "2023-08-30T13:45:04Z",
+            "owner": "louketo",
+            "repo": "louketo-proxy",
+            "stars": 948
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Keycloak Metrics SPI",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2024-11-08T12:26:24Z",
+            "owner": "aerogear",
+            "repo": "keycloak-metrics-spi",
+            "stars": 616
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Organizations for Keycloak by Phase Two",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-07-29T07:04:10Z",
+            "owner": "p2-inc",
+            "repo": "keycloak-orgs",
+            "stars": 541
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MagicLink Authenticator by Phase Two",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-07-20T14:32:14Z",
+            "owner": "p2-inc",
+            "repo": "keycloak-magic-link",
+            "stars": 422
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Keycloak: Home IdP Discovery extension",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-11T00:02:50Z",
+            "owner": "sventorben",
+            "repo": "keycloak-home-idp-discovery",
+            "stars": 341
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Useful Keycloak EventListenerProvider implementations and utilities",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-07-10T12:45:15Z",
+            "owner": "p2-inc",
+            "repo": "keycloak-events",
+            "stars": 312
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Keycloak MFA Plugins by @netzbegruenung",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-10T03:32:56Z",
+            "owner": "netzbegruenung",
+            "repo": "keycloak-mfa-plugins",
+            "stars": 283
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2FA with Code sent via Email",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-07-28T09:56:58Z",
+            "owner": "mesutpiskin",
+            "repo": "keycloak-2fa-email-authenticator",
+            "stars": 279
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "zonaut/keycloak-extensions",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2023-12-24T05:05:34Z",
+            "owner": "zonaut",
+            "repo": "keycloak-extensions",
+            "stars": 230
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SCIM for keycloak",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2024-03-10T13:04:10Z",
+            "owner": "Captain-P-Goldfish",
+            "repo": "scim-for-keycloak",
+            "stars": 208
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Keycloak Benchmark Project",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-10T10:16:33Z",
+            "owner": "keycloak",
+            "repo": "keycloak-benchmark",
+            "stars": 175
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Keycloak extension for creating multi-tenant IAM for B2B SaaS applications",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-07T13:10:31Z",
+            "owner": "anarsultanov",
+            "repo": "keycloak-multi-tenancy",
+            "stars": 172
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "leroyguillaume/keycloak-bcrypt",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2025-11-19T09:35:42Z",
+            "owner": "leroyguillaume",
+            "repo": "keycloak-bcrypt",
+            "stars": 168
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Keycloak Discord Support",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2024-11-02T05:44:36Z",
+            "owner": "wadahiro",
+            "repo": "keycloak-discord",
+            "stars": 157
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Keycloak Kafka Module",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-04-13T19:23:27Z",
+            "owner": "SnuK87",
+            "repo": "keycloak-kafka",
+            "stars": 143
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Keycloak Webhooks from vymalo/keycloak-webhook",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-08-10T17:53:47Z",
+            "owner": "vymalo",
+            "repo": "keycloak-webhook",
+            "stars": 112
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Keycloak Adaptive Authentication Extension by @mabartos",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-07-28T10:17:20Z",
+            "owner": "mabartos",
+            "repo": "keycloak-adaptive-authn",
+            "stars": 100
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SMS 2 Factor Authentication for Keycloak via AWS SNS",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Java",
+            "last_commit": "2018-11-15T12:13:09Z",
+            "owner": "nickpack",
+            "repo": "keycloak-sms-authenticator-sns",
+            "stars": 72
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CAS Protocol Support",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Java",
+            "last_commit": "2020-10-11T17:13:59Z",
+            "owner": "Doccrazy",
+            "repo": "keycloak-protocol-cas",
+            "stars": 67
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Keycloak Authenticator for Duo's Universal Prompt",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-07-06T23:30:36Z",
+            "owner": "instipod",
+            "repo": "DuoUniversalKeycloakAuthenticator",
+            "stars": 61
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Keycloak OpenFGA Event Publisher by @embesozzi",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2024-07-02T13:44:02Z",
+            "owner": "embesozzi",
+            "repo": "keycloak-openfga-event-publisher",
+            "stars": 61
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Keycloak Trusted Device Support by @wouterh-dev",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-05-03T03:29:51Z",
+            "owner": "wouterh-dev",
+            "repo": "keycloak-spi-trusted-device",
+            "stars": 56
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Realm export REST resource by Cloudtrust",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Java",
+            "last_commit": "2023-11-09T16:56:31Z",
+            "owner": "cloudtrust",
+            "repo": "keycloak-export",
+            "stars": 51
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "evosec/keycloak-ipaddress-authenticator",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-01-30T13:28:07Z",
+            "owner": "evosec",
+            "repo": "keycloak-ipaddress-authenticator",
+            "stars": 50
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Keycloak Login with User Attribute",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-07T20:50:10Z",
+            "owner": "cnieg",
+            "repo": "keycloak-login-attribute",
+            "stars": 49
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Keycloak Metrics based on Micrometer",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-05T19:22:10Z",
+            "owner": "kokuwaio",
+            "repo": "keycloak-event-metrics",
+            "stars": 44
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WS-FED Support",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2021-07-01T13:00:04Z",
+            "owner": "cloudtrust",
+            "repo": "keycloak-wsfed",
+            "stars": 38
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Keycloak Custom Attribute IDP Linking",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2025-09-22T08:28:41Z",
+            "owner": "sd-f",
+            "repo": "keycloak-custom-attribute-idp-linking",
+            "stars": 36
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Admin Portal for User and Organization management by Phase Two",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-06-04T15:27:46Z",
+            "owner": "p2-inc",
+            "repo": "phasetwo-admin-portal",
+            "stars": 34
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "embesozzi/keycloak-webauthn-conditional-mediation WebAuthn Support for Passkeys",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "FreeMarker",
+            "last_commit": "2024-01-20T19:37:15Z",
+            "owner": "embesozzi",
+            "repo": "keycloak-webauthn-conditional-mediation",
+            "stars": 28
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Keycloak: Link IdP Login with User Provider",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2018-09-20T14:27:12Z",
+            "owner": "ohioit",
+            "repo": "keycloak-link-idp-with-user",
+            "stars": 25
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Have I Been Pwned? Keycloak Password Policy",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2019-05-19T02:02:40Z",
+            "owner": "alexashley",
+            "repo": "keycloak-password-policy-have-i-been-pwned",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Keycloak Redis Cache",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-07T18:14:59Z",
+            "owner": "p2-inc",
+            "repo": "keycloak-redis-cache",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Flexible IdP mapper for OIDC and SAML providers",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-02-16T09:13:32Z",
+            "owner": "LucaFilipozzi",
+            "repo": "keycloak-regex-mapper",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rciam/keycloak-group-management",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-27T11:44:35Z",
+            "owner": "rciam",
+            "repo": "keycloak-group-management",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Keycloak reCAPTCHA Password Defense",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2025-10-08T08:36:38Z",
+            "owner": "califio",
+            "repo": "keycloak-recaptcha-password-defense",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Role-based Docker registry authentication",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-06T18:56:47Z",
+            "owner": "lifs-tools",
+            "repo": "keycloak-docker-role-mapper",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Keycloak JDBC Ping Setup by moremagic",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dockerfile",
+            "last_commit": "2020-08-05T06:51:14Z",
+            "owner": "moremagic",
+            "repo": "keycloak-jdbc-ping",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Keycloak GraphQL API by @blevine",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2025-03-07T16:28:13Z",
+            "owner": "blevine",
+            "repo": "keycloak-graphql",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Keycloak Vault Provider for OpenBao and HashiCorp Vault",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-10T07:38:07Z",
+            "owner": "Nordix",
+            "repo": "keycloak-secrets-vault-provider",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Enforcing Password policy based on attributes of User Groups",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2023-11-27T14:16:11Z",
+            "owner": "sayedcsekuet",
+            "repo": "keycloak-user-group-based-password-policy",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Verify Email with Link or Code by hokumski",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2023-11-29T21:44:33Z",
+            "owner": "hokumski",
+            "repo": "keycloak-verifyemailwithcode",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Email Notifications when login from a new IP and Login History",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2024-08-24T17:59:12Z",
+            "owner": "eliskachylikova",
+            "repo": "keycloak-extensions",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Keycloak GDPR Event Logger",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2024-04-28T14:44:17Z",
+            "owner": "slemke",
+            "repo": "keycloak-gdpr-event-logger",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Script based ProtocolMapper extension for SAML",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Java",
+            "last_commit": "2018-06-19T12:55:55Z",
+            "owner": "cloudtrust",
+            "repo": "keycloak-client-mappers",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "softwarefactory-project/keycloak-filter-provider-users",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2023-05-15T09:18:25Z",
+            "owner": "softwarefactory-project",
+            "repo": "keycloak-filter-provider-users",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Identity provider for German eID L21s/keycloak-eid-identity-provider",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2025-08-18T05:42:54Z",
+            "owner": "L21s",
+            "repo": "keycloak-eid-identity-provider",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Client Owner Manager: Control who can edit a client",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Java",
+            "last_commit": "2017-05-18T10:21:14Z",
+            "owner": "cyclone-project",
+            "repo": "cyclone-client-registration",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SPIFFE SVID Client Authenticator for Keycloak",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2025-07-23T18:01:35Z",
+            "owner": "christian-posta",
+            "repo": "spiffe-svid-client-authenticator",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(Send) Email on user creation",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2023-12-18T19:35:16Z",
+            "owner": "stfc",
+            "repo": "keycloak-email-on-user-creation",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Keycloak Testcontainer for Node.js",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-11T06:07:47Z",
+            "owner": "slemke",
+            "repo": "keycloak-testcontainer",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Notification on Impersonation SebastEnn/impersonation-notification",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2025-05-16T11:42:57Z",
+            "owner": "SebastEnn",
+            "repo": "impersonation-notification",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Keycloak Custom Modules for SRG hardening",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2025-12-15T02:56:50Z",
+            "owner": "mitre",
+            "repo": "keycloak-custom-policies",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenID Connect for Identity Assurance (OIDC4IDA) on Keycloak",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2023-11-20T13:56:56Z",
+            "owner": "Bredstone",
+            "repo": "Keycloak-Extension-OIDC4IDA",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JavaScript LDAP_ID ScriptMapper by @netzbegruenung",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-05-15T10:22:30Z",
+            "owner": "netzbegruenung",
+            "repo": "keycloak-scriptmapper-ldap-id",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pin Code Authenticator for Keycloak ACR/LOA",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-02-23T22:35:07Z",
+            "owner": "ldesroch",
+            "repo": "keycloak-pin-code-authenticator",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Keycloak Cookieless IDP Extension",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-01-09T14:42:32Z",
+            "owner": "dominikschlosser",
+            "repo": "keycloak-cookieless-idp-extension",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Keycloak Backup Email Required Action",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "FreeMarker",
+            "last_commit": "2026-08-12T03:03:56Z",
+            "owner": "slemke",
+            "repo": "keycloak-backup-email",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Keycloak Terms Authenticator: Require Terms and Conditions on every login",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-12T14:44:51Z",
+            "owner": "slemke",
+            "repo": "keycloak-terms-authenticator",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SMS 2 Factor Authentiation for Keycloak via SMS by Alliander",
+          "description": null,
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "Identity Provider for vk.com",
+          "description": null,
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "Keycloak Eventlistener for Google Cloud Pub Sub",
+          "description": null,
+          "children": []
+        }
+      ],
+      "title": "Community Extensions"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Nerzal/gocloak Golang Keycloak API Package",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-07-28T11:30:07Z",
+            "owner": "Nerzal",
+            "repo": "gocloak",
+            "stars": 1250
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "zmartzone mod_auth_openidc for Apache 2.x",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-13T11:53:52Z",
+            "owner": "OpenIDC",
+            "repo": "mod_auth_openidc",
+            "stars": 1093
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Keycloak Terraform Provider",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-11T02:45:47Z",
+            "owner": "keycloak",
+            "repo": "terraform-provider-keycloak",
+            "stars": 940
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "python-keycloak",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-15T08:46:06Z",
+            "owner": "marcospereirampj",
+            "repo": "python-keycloak",
+            "stars": 880
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Official Keycloak Node.js Connect Adapter",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-06-03T16:11:32Z",
+            "owner": "keycloak",
+            "repo": "keycloak-nodejs-connect",
+            "stars": 740
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "React/NextJS Keycloak Bindings",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2023-04-03T21:39:34Z",
+            "owner": "react-keycloak",
+            "repo": "react-keycloak",
+            "stars": 563
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Keycloak OAuth2 Auth for PHP",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-08-08T08:01:09Z",
+            "owner": "stevenmaguire",
+            "repo": "oauth2-keycloak",
+            "stars": 227
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Keycloak Connect GraphQL Adapter for Node.js",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2023-04-17T14:15:45Z",
+            "owner": "aerogear",
+            "repo": "keycloak-connect-graphql",
+            "stars": 158
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Apple Social Identity Provider for Keycloak",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2023-03-09T10:03:54Z",
+            "owner": "BenjaminFavre",
+            "repo": "keycloak-apple-social-identity-provider",
+            "stars": 117
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Extension Keycloak facilitant l'utilisation de FranceConnect",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-07-24T09:26:10Z",
+            "owner": "InseeFr",
+            "repo": "Keycloak-FranceConnect",
+            "stars": 106
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Keycloak Python Client",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-12-29T09:51:58Z",
+            "owner": "keycloak-client",
+            "repo": "keycloak-client",
+            "stars": 58
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Jenkins Keycloak Authentication Plugin",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-01-12T21:07:35Z",
+            "owner": "jenkinsci",
+            "repo": "keycloak-plugin",
+            "stars": 41
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HapiJS Keycloak Auth",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-03-06T05:05:04Z",
+            "owner": "felixheck",
+            "repo": "hapi-auth-keycloak",
+            "stars": 36
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mantelo (Python Admin Client)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-14T05:50:08Z",
+            "owner": "derlin",
+            "repo": "mantelo",
+            "stars": 35
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Keycloak Open-Shift integration",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Shell",
+            "last_commit": "2018-12-12T13:55:05Z",
+            "owner": "keycloak",
+            "repo": "openshift-integration",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Keyloak Integration for the German E-Health ID (GesundheitsID)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-08T07:23:43Z",
+            "owner": "oviva-ag",
+            "repo": "ehealthid-relying-party",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Vault Keycloak Plugin",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-07-16T07:32:40Z",
+            "owner": "Serviceware",
+            "repo": "vault-plugin-secrets-keycloak",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Keycloak, Kong and Konga setup scripts (local development)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2021-11-01T13:01:27Z",
+            "owner": "JaouherK",
+            "repo": "Kong-konga-Keycloak",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NextJS + tailwind + keycloak integration",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-09-25T04:54:52Z",
+            "owner": "santiblanko",
+            "repo": "keycloak-nextjs-auth",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Keycloak HTTP/MQTT/CoAP IoT Brokers Adapter",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-03-30T11:09:07Z",
+            "owner": "authbroker",
+            "repo": "authbroker",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Meteor Keycloak Accounts",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-06-02T19:02:42Z",
+            "owner": "mxab",
+            "repo": "meteor-keycloak",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Micrometer Keycloak extension",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Java",
+            "last_commit": "2022-03-08T22:20:39Z",
+            "owner": "micrometer-metrics",
+            "repo": "micrometer-keycloak",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Keycloak support for Aurelia",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-01-14T21:35:06Z",
+            "owner": "waynepennington",
+            "repo": "aurelia-keycloak",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Keycloak and PrivacyId3a docker-compose (local development)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "FreeMarker",
+            "last_commit": "2020-06-26T14:19:41Z",
+            "owner": "JaouherK",
+            "repo": "keycloak-privacyIdea",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Duo Security MFA Authentication for Keycloak",
+          "description": null,
+          "children": []
+        }
+      ],
+      "title": "Integrations"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "keycloakify: Create Keycloak themes using React",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-02T23:31:26Z",
+            "owner": "keycloakify",
+            "repo": "keycloakify",
+            "stars": 2548
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Keywind: Component-based theme built with Tailwind CSS",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2024-08-07T09:23:24Z",
+            "owner": "lukin",
+            "repo": "keywind",
+            "stars": 905
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GOV.UK Theme",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "FreeMarker",
+            "last_commit": "2026-04-17T10:17:20Z",
+            "owner": "UKHomeOffice",
+            "repo": "keycloak-theme-govuk",
+            "stars": 144
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "A Keycloak theme based on the AdminLTE UI library",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2019-08-30T19:35:00Z",
+            "owner": "MAXIMUS-DeltaWare",
+            "repo": "adminlte-keycloak-theme",
+            "stars": 91
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tailcloakify: Tailwind CSS Keycloakify Theme",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-04T09:21:06Z",
+            "owner": "ALMiG-Kompressoren-GmbH",
+            "repo": "tailcloakify",
+            "stars": 83
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Phase Two: Extension for runtime loading of CSS themes",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-10T10:09:54Z",
+            "owner": "p2-inc",
+            "repo": "keycloak-themes",
+            "stars": 52
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Phase Two: 3 CSS-only Keycloak theme examples",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-10T10:09:54Z",
+            "owner": "p2-inc",
+            "repo": "keycloak-themes",
+            "stars": 52
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Phase Two: Keycloak login theme template",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2026-02-03T09:29:14Z",
+            "owner": "p2-inc",
+            "repo": "keycloak-theme-template",
+            "stars": 47
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TailwindUI theme",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2022-09-27T01:47:48Z",
+            "owner": "santiblanko",
+            "repo": "tailwind-keycloak-theme",
+            "stars": 44
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Carbon Design",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "FreeMarker",
+            "last_commit": "2023-01-04T21:55:28Z",
+            "owner": "0xHexE",
+            "repo": "carbon-keycloak-theme",
+            "stars": 27
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Community Keycloak Ionic Theme",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2014-10-02T12:20:40Z",
+            "owner": "lfryc",
+            "repo": "keycloak-ionic-theme",
+            "stars": 21
+          }
+        }
+      ],
+      "title": "Themes"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Official Keycloak Docker Images",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": null,
+            "last_commit": "2024-01-29T14:19:51Z",
+            "owner": "keycloak",
+            "repo": "keycloak-containers",
+            "stars": 1458
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Keycloak Maven SDK for managing the entire lifecycle of your extensions with Docker",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "FreeMarker",
+            "last_commit": "2023-02-08T17:07:58Z",
+            "owner": "OpenPj",
+            "repo": "keycloak-docker-quickstart",
+            "stars": 33
+          }
+        }
+      ],
+      "title": "Docker"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Deprecated Keycloak Helm Chart",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Mustache",
+            "last_commit": "2026-07-20T08:14:03Z",
+            "owner": "codecentric",
+            "repo": "helm-charts",
+            "stars": 741
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "codecentric Keycloak Helm Chart",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Mustache",
+            "last_commit": "2026-07-20T08:14:03Z",
+            "owner": "codecentric",
+            "repo": "helm-charts",
+            "stars": 741
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "keycloak-operator",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Go",
+            "last_commit": "2022-11-16T08:52:00Z",
+            "owner": "keycloak",
+            "repo": "keycloak-operator",
+            "stars": 430
+          }
+        }
+      ],
+      "title": "Kubernetes"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "keycloak-config-cli: Configuration as Code for Keycloak",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-07-26T08:05:59Z",
+            "owner": "adorsys",
+            "repo": "keycloak-config-cli",
+            "stars": 1176
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "louketo-proxy (FKA Gatekeeper)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Go",
+            "last_commit": "2023-08-30T13:45:04Z",
+            "owner": "louketo",
+            "repo": "louketo-proxy",
+            "stars": 948
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Keycloak on AWS",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Roff",
+            "last_commit": "2024-06-20T06:36:32Z",
+            "owner": "aws-samples",
+            "repo": "keycloak-on-aws",
+            "stars": 200
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tool to autogenerate an OpenAPI Specification for Keycloak's Admin API",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-04T05:59:21Z",
+            "owner": "ccouzens",
+            "repo": "keycloak-openapi",
+            "stars": 181
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kcwarden Config Auditor",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T21:24:03Z",
+            "owner": "iteratec",
+            "repo": "kcwarden",
+            "stars": 130
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "keycloakmigration: Manage your Keycloak configuration with code",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-08-07T17:59:31Z",
+            "owner": "mayope",
+            "repo": "keycloakmigration",
+            "stars": 128
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "oidc-bash-client",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-07-16T21:36:17Z",
+            "owner": "please-openit",
+            "repo": "oidc-bash-client",
+            "stars": 125
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "aws-cdk construct library that allows you to create KeyCloak on AWS in TypeScript or Python",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2024-04-11T12:24:14Z",
+            "owner": "aws-samples",
+            "repo": "cdk-keycloak",
+            "stars": 88
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "keycloak-scanner Python CLI",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-07-06T00:10:21Z",
+            "owner": "NeuronAddict",
+            "repo": "keycloak-scanner",
+            "stars": 69
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Keycloak Pulumi",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Makefile",
+            "last_commit": "2026-08-11T06:16:40Z",
+            "owner": "pulumi",
+            "repo": "pulumi-keycloak",
+            "stars": 52
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Keycloak Configurator",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-03-29T14:14:58Z",
+            "owner": "CycriLabs",
+            "repo": "keycloak-configurator",
+            "stars": 20
+          }
+        }
+      ],
+      "title": "Tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Official Examples",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-13T20:39:22Z",
+            "owner": "keycloak",
+            "repo": "keycloak",
+            "stars": 36168
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Keycloak Quickstarts",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-05T17:18:09Z",
+            "owner": "keycloak",
+            "repo": "keycloak-quickstarts",
+            "stars": 2346
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Example for using Keycloak Authorization with ASP.NET Core",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-06-02T06:18:01Z",
+            "owner": "NikiforovAll",
+            "repo": "keycloak-authorization-services-dotnet",
+            "stars": 672
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Keycloak Project Example (Customizations, Extensions, Configuration)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-05-20T15:17:28Z",
+            "owner": "thomasdarimont",
+            "repo": "keycloak-project-example",
+            "stars": 394
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Angular Webapp secured with Keycloak",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-10T13:45:25Z",
+            "owner": "CodeverDotDev",
+            "repo": "codever",
+            "stars": 384
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Examples from Keycloak Book: Keycloak - Identity and Access Management for Modern Applications",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-04-22T08:26:00Z",
+            "owner": "PacktPublishing",
+            "repo": "Keycloak-Identity-and-Access-Management-for-Modern-Applications",
+            "stars": 275
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Spring Boot Keycloak Tutorial",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2018-01-17T22:36:01Z",
+            "owner": "sebastienblanc",
+            "repo": "spring-boot-keycloak-tutorial",
+            "stars": 202
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Keycloak Clustering examples",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2025-06-05T21:08:52Z",
+            "owner": "ivangfr",
+            "repo": "keycloak-clustered",
+            "stars": 198
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Verifiable Credential Authentication with OpenID Connect (VC-AuthN OIDC)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-11T17:43:17Z",
+            "owner": "openwallet-foundation",
+            "repo": "acapy-vc-authn-oidc",
+            "stars": 157
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Example of adding API Key authentication to Keycloak",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-02T13:42:36Z",
+            "owner": "zak905",
+            "repo": "keycloak-api-key-demo",
+            "stars": 151
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BeerCloak: a comprehensive KeyCloak extension example",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2023-08-22T14:10:44Z",
+            "owner": "dteleguin",
+            "repo": "beercloak",
+            "stars": 143
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Keycloak - Experimental extensions by Stian Thorgersen/Keycloak",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2022-03-18T16:21:10Z",
+            "owner": "stianst",
+            "repo": "keycloak-experimental",
+            "stars": 136
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Custom User Storage Provider .ear with jboss-cli setup",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2020-04-03T10:51:10Z",
+            "owner": "thomasdarimont",
+            "repo": "keycloak-user-storage-provider-demo",
+            "stars": 92
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Monitor your keycloak with prometheus",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2020-03-26T19:32:37Z",
+            "owner": "L21s",
+            "repo": "keycloak-monitoring-prometheus",
+            "stars": 64
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Securing Spring Boot Admin & Actuator Endpoints with Keycloak",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2019-04-04T20:21:56Z",
+            "owner": "thomasdarimont",
+            "repo": "spring-boot-admin-keycloak-example",
+            "stars": 60
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Keycloak enviornment with WebAuthn Support for Stepup Auth with MFA Biometrics and Passkeys (by embesozzi)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-11-11T13:49:35Z",
+            "owner": "embesozzi",
+            "repo": "keycloak-workshop-stepup-mfa-biometrics",
+            "stars": 59
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Example for Securing Apps with Keycloak on Kubernetes",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2018-06-27T20:07:25Z",
+            "owner": "stianst",
+            "repo": "demo-kubernetes",
+            "stars": 55
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Keycloak Theme Development Kit",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2019-10-08T13:12:12Z",
+            "owner": "anthonny",
+            "repo": "kit-keycloak-theme",
+            "stars": 50
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "How to: Keycloak - ASP.NET Core - Angular",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-05-11T18:10:36Z",
+            "owner": "fschick",
+            "repo": "Keycloak.ASPNet.Angular",
+            "stars": 49
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Example for Securing AspDotNet Core Apps with Keycloak",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2024-09-03T07:29:53Z",
+            "owner": "thomasdarimont",
+            "repo": "kc-dnc-demo",
+            "stars": 40
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Keycloak Last Login Date Event Listener",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2025-04-13T12:35:18Z",
+            "owner": "ThoreKr",
+            "repo": "keycloak-last-login-event-listener",
+            "stars": 34
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Example for passing custom URL parameters to a Keycloak theme for dynamic branding",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "FreeMarker",
+            "last_commit": "2018-10-15T21:55:33Z",
+            "owner": "dteleguin",
+            "repo": "keycloak-dynamic-branding",
+            "stars": 33
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Keycloak and SPIRE for Agent Identity",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-09-18T01:54:43Z",
+            "owner": "christian-posta",
+            "repo": "keycloak-agent-identity",
+            "stars": 31
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Example of custom password hash SPI for Keycloak",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2017-03-06T16:29:46Z",
+            "owner": "pavelbogomolenko",
+            "repo": "keycloak-custom-password-hash",
+            "stars": 28
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "A simple Django app to use Keycloak over OIDC by Amsterdam/keycloak_oidc",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-04-13T06:21:16Z",
+            "owner": "Amsterdam",
+            "repo": "keycloak_oidc",
+            "stars": 27
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "A Keycloak Mobile Implementation using Angular v4 and Ionic v3",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2017-10-06T20:41:03Z",
+            "owner": "tomjackman",
+            "repo": "keyonic-v2",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Securing Realm Resources With Custom Roles",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2016-08-29T04:15:42Z",
+            "owner": "dteleguin",
+            "repo": "custom-admin-roles",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "KeyCloak Extensions: Securing Realm Resources With Custom Roles",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2016-08-29T04:15:42Z",
+            "owner": "dteleguin",
+            "repo": "custom-admin-roles",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Keycloak as a Verifiable Credential Issuer with OID4VCI by Adorsys",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-08-10T12:17:34Z",
+            "owner": "adorsys",
+            "repo": "keycloak-ssi-deployment",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Red Hat Single Sign-On Labs",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2017-05-29T16:31:33Z",
+            "owner": "RedHatWorkshops",
+            "repo": "red-hat-sso",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Custom Keycloak Docker Image of Computer Science House of RIT",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dockerfile",
+            "last_commit": "2025-12-19T22:18:50Z",
+            "owner": "ComputerScienceHouse",
+            "repo": "keycloak-docker",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FAPI demo from DevConf.cz Mini: Secure digital transformation via keycloak's FAPI",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Java",
+            "last_commit": "2025-09-24T14:27:33Z",
+            "owner": "mposolda",
+            "repo": "fapi-demo",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Example for a custom http-client-provider with Proxy support",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2018-01-09T10:31:05Z",
+            "owner": "xiaoyvr",
+            "repo": "custom-http-client-provider",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FIDO2 with Keycloak for 1FA and 2FA christian-2/oidc-passkey",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2024-04-27T13:58:10Z",
+            "owner": "christian-2",
+            "repo": "kundk",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "Example Projects"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T23:00:49.108Z",
+    "original_repository": "thomasdarimont/awesome-keycloak",
+    "original_repository_sha": "457a44c6428a3e6a6e95645866420834793b90e1",
+    "enhanced_repository": "enhansome/enhansome-keycloak",
+    "enhanced_repository_description": null,
+    "title": "Awesome Keycloak with stars"
+  }
+}
