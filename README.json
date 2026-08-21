@@ -14,10 +14,10 @@
                 "archived": false,
                 "id": 11125589,
                 "language": "Java",
-                "last_commit": "2026-08-20T21:14:31Z",
+                "last_commit": "2026-08-21T18:10:18Z",
                 "owner": "keycloak",
                 "repo": "keycloak",
-                "stars": 36314
+                "stars": 36331
               }
             },
             {
@@ -133,7 +133,7 @@
                 "archived": false,
                 "id": 213330914,
                 "language": "Java",
-                "last_commit": "2026-08-19T14:54:43Z",
+                "last_commit": "2026-08-21T12:05:05Z",
                 "owner": "TNG",
                 "repo": "keycloak-mock",
                 "stars": 135
@@ -293,7 +293,7 @@
                 "last_commit": "2026-08-17T03:33:50Z",
                 "owner": "netzbegruenung",
                 "repo": "keycloak-mfa-plugins",
-                "stars": 284
+                "stars": 286
               }
             },
             {
@@ -575,7 +575,7 @@
                 "archived": false,
                 "id": 608810463,
                 "language": "Java",
-                "last_commit": "2026-08-20T05:10:12Z",
+                "last_commit": "2026-08-21T20:10:13Z",
                 "owner": "kokuwaio",
                 "repo": "keycloak-event-metrics",
                 "stars": 44
@@ -913,6 +913,21 @@
             },
             {
               "node_type": "item",
+              "title": "(Send) Email on user creation",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 610806555,
+                "language": "Java",
+                "last_commit": "2023-12-18T19:35:16Z",
+                "owner": "stfc",
+                "repo": "keycloak-email-on-user-creation",
+                "stars": 6
+              }
+            },
+            {
+              "node_type": "item",
               "title": "SPIFFE SVID Client Authenticator for Keycloak",
               "description": null,
               "children": [],
@@ -928,16 +943,16 @@
             },
             {
               "node_type": "item",
-              "title": "(Send) Email on user creation",
+              "title": "Keycloak Custom Modules for SRG hardening",
               "description": null,
               "children": [],
               "repo_info": {
                 "archived": false,
-                "id": 610806555,
+                "id": 521694271,
                 "language": "Java",
-                "last_commit": "2023-12-18T19:35:16Z",
-                "owner": "stfc",
-                "repo": "keycloak-email-on-user-creation",
+                "last_commit": "2025-12-15T02:56:50Z",
+                "owner": "mitre",
+                "repo": "keycloak-custom-policies",
                 "stars": 5
               }
             },
@@ -968,21 +983,6 @@
                 "last_commit": "2025-05-16T11:42:57Z",
                 "owner": "SebastEnn",
                 "repo": "impersonation-notification",
-                "stars": 4
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "Keycloak Custom Modules for SRG hardening",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 521694271,
-                "language": "Java",
-                "last_commit": "2025-12-15T02:56:50Z",
-                "owner": "mitre",
-                "repo": "keycloak-custom-policies",
                 "stars": 4
               }
             },
@@ -1107,7 +1107,7 @@
                 "archived": false,
                 "id": 18187508,
                 "language": "C",
-                "last_commit": "2026-08-20T16:41:15Z",
+                "last_commit": "2026-08-21T08:02:48Z",
                 "owner": "OpenIDC",
                 "repo": "mod_auth_openidc",
                 "stars": 1092
@@ -1122,7 +1122,7 @@
                 "archived": false,
                 "id": 147036024,
                 "language": "Go",
-                "last_commit": "2026-08-17T04:42:42Z",
+                "last_commit": "2026-08-21T14:16:48Z",
                 "owner": "keycloak",
                 "repo": "terraform-provider-keycloak",
                 "stars": 942
@@ -1723,7 +1723,7 @@
                 "last_commit": "2026-08-17T18:38:54Z",
                 "owner": "adorsys",
                 "repo": "keycloak-config-cli",
-                "stars": 1177
+                "stars": 1178
               }
             },
             {
@@ -1892,10 +1892,10 @@
                 "archived": false,
                 "id": 11125589,
                 "language": "Java",
-                "last_commit": "2026-08-20T21:14:31Z",
+                "last_commit": "2026-08-21T18:10:18Z",
                 "owner": "keycloak",
                 "repo": "keycloak",
-                "stars": 36314
+                "stars": 36331
               }
             },
             {
@@ -2403,7 +2403,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T22:43:52.517Z",
+    "last_updated": "2026-08-21T22:39:37.333Z",
     "original_repository": "thomasdarimont/awesome-keycloak",
     "original_repository_id": 63047721,
     "original_repository_sha": "457a44c6428a3e6a6e95645866420834793b90e1",
