@@ -14,10 +14,10 @@
                 "archived": false,
                 "id": 11125589,
                 "language": "Java",
-                "last_commit": "2026-08-22T14:21:35Z",
+                "last_commit": "2026-08-23T19:51:59Z",
                 "owner": "keycloak",
                 "repo": "keycloak",
-                "stars": 36343
+                "stars": 36354
               }
             },
             {
@@ -1107,7 +1107,7 @@
                 "archived": false,
                 "id": 18187508,
                 "language": "C",
-                "last_commit": "2026-08-21T08:02:48Z",
+                "last_commit": "2026-08-23T14:50:40Z",
                 "owner": "OpenIDC",
                 "repo": "mod_auth_openidc",
                 "stars": 1092
@@ -1892,10 +1892,10 @@
                 "archived": false,
                 "id": 11125589,
                 "language": "Java",
-                "last_commit": "2026-08-22T14:21:35Z",
+                "last_commit": "2026-08-23T19:51:59Z",
                 "owner": "keycloak",
                 "repo": "keycloak",
-                "stars": 36343
+                "stars": 36354
               }
             },
             {
@@ -1952,7 +1952,7 @@
                 "archived": false,
                 "id": 69779247,
                 "language": "TypeScript",
-                "last_commit": "2026-08-18T06:43:08Z",
+                "last_commit": "2026-08-23T19:43:30Z",
                 "owner": "CodeverDotDev",
                 "repo": "codever",
                 "stars": 385
@@ -2403,7 +2403,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T22:36:49.377Z",
+    "last_updated": "2026-08-23T22:36:44.602Z",
     "original_repository": "thomasdarimont/awesome-keycloak",
     "original_repository_id": 63047721,
     "original_repository_sha": "457a44c6428a3e6a6e95645866420834793b90e1",
