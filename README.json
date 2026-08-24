@@ -14,10 +14,10 @@
                 "archived": false,
                 "id": 11125589,
                 "language": "Java",
-                "last_commit": "2026-08-24T13:49:16Z",
+                "last_commit": "2026-08-24T19:14:33Z",
                 "owner": "keycloak",
                 "repo": "keycloak",
-                "stars": 36376
+                "stars": 36385
               }
             },
             {
@@ -185,7 +185,7 @@
                 "archived": false,
                 "id": 105982281,
                 "language": "Go",
-                "last_commit": "2026-08-20T06:31:37Z",
+                "last_commit": "2026-08-24T14:52:39Z",
                 "owner": "cloudtrust",
                 "repo": "keycloak-client",
                 "stars": 25
@@ -282,7 +282,7 @@
                 "archived": false,
                 "id": 431239945,
                 "language": "Java",
-                "last_commit": "2026-08-24T08:09:35Z",
+                "last_commit": "2026-08-24T15:50:13Z",
                 "owner": "sventorben",
                 "repo": "keycloak-home-idp-discovery",
                 "stars": 341
@@ -315,7 +315,7 @@
                 "last_commit": "2026-08-24T03:32:46Z",
                 "owner": "netzbegruenung",
                 "repo": "keycloak-mfa-plugins",
-                "stars": 286
+                "stars": 287
               }
             },
             {
@@ -447,7 +447,7 @@
                 "archived": false,
                 "id": 628094839,
                 "language": "Kotlin",
-                "last_commit": "2026-08-10T17:53:47Z",
+                "last_commit": "2026-08-24T17:54:47Z",
                 "owner": "vymalo",
                 "repo": "keycloak-webhook",
                 "stars": 112
@@ -642,7 +642,7 @@
                 "archived": false,
                 "id": 596590423,
                 "language": "TypeScript",
-                "last_commit": "2026-06-04T15:27:46Z",
+                "last_commit": "2026-08-24T16:14:54Z",
                 "owner": "p2-inc",
                 "repo": "phasetwo-admin-portal",
                 "stars": 34
@@ -1092,7 +1092,7 @@
                 "archived": false,
                 "id": 773821538,
                 "language": "Java",
-                "last_commit": "2026-08-12T14:44:51Z",
+                "last_commit": "2026-08-24T14:47:55Z",
                 "owner": "slemke",
                 "repo": "keycloak-terms-authenticator",
                 "stars": 0
@@ -1129,7 +1129,7 @@
                 "archived": false,
                 "id": 18187508,
                 "language": "C",
-                "last_commit": "2026-08-23T14:50:40Z",
+                "last_commit": "2026-08-24T19:53:54Z",
                 "owner": "OpenIDC",
                 "repo": "mod_auth_openidc",
                 "stars": 1092
@@ -1556,7 +1556,7 @@
                 "archived": false,
                 "id": 553124695,
                 "language": "TypeScript",
-                "last_commit": "2026-08-22T13:22:40Z",
+                "last_commit": "2026-08-24T16:33:46Z",
                 "owner": "p2-inc",
                 "repo": "keycloak-themes",
                 "stars": 53
@@ -1571,7 +1571,7 @@
                 "archived": false,
                 "id": 553124695,
                 "language": "TypeScript",
-                "last_commit": "2026-08-22T13:22:40Z",
+                "last_commit": "2026-08-24T16:33:46Z",
                 "owner": "p2-inc",
                 "repo": "keycloak-themes",
                 "stars": 53
@@ -1936,10 +1936,10 @@
                 "archived": false,
                 "id": 11125589,
                 "language": "Java",
-                "last_commit": "2026-08-24T13:49:16Z",
+                "last_commit": "2026-08-24T19:14:33Z",
                 "owner": "keycloak",
                 "repo": "keycloak",
-                "stars": 36376
+                "stars": 36385
               }
             },
             {
@@ -2293,7 +2293,7 @@
               "description": null,
               "children": [],
               "repo_info": {
-                "archived": false,
+                "archived": true,
                 "id": 209804317,
                 "language": "Python",
                 "last_commit": "2021-04-13T06:21:16Z",
@@ -2469,7 +2469,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:07:57.759Z",
+    "last_updated": "2026-08-24T22:42:31.194Z",
     "original_repository": "thomasdarimont/awesome-keycloak",
     "original_repository_id": 63047721,
     "original_repository_sha": "457a44c6428a3e6a6e95645866420834793b90e1",
