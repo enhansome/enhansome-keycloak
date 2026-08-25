@@ -14,10 +14,10 @@
                 "archived": false,
                 "id": 11125589,
                 "language": "Java",
-                "last_commit": "2026-08-24T19:14:33Z",
+                "last_commit": "2026-08-25T01:01:08Z",
                 "owner": "keycloak",
                 "repo": "keycloak",
-                "stars": 36385
+                "stars": 36391
               }
             },
             {
@@ -103,7 +103,7 @@
                 "archived": false,
                 "id": 887738099,
                 "language": "Java",
-                "last_commit": "2026-08-21T05:30:07Z",
+                "last_commit": "2026-08-25T04:37:44Z",
                 "owner": "tide-foundation",
                 "repo": "keycloak-IGA",
                 "stars": 12
@@ -597,7 +597,7 @@
                 "archived": false,
                 "id": 608810463,
                 "language": "Java",
-                "last_commit": "2026-08-21T23:10:13Z",
+                "last_commit": "2026-08-24T23:10:16Z",
                 "owner": "kokuwaio",
                 "repo": "keycloak-event-metrics",
                 "stars": 44
@@ -1484,7 +1484,7 @@
                 "last_commit": "2026-08-02T23:31:26Z",
                 "owner": "keycloakify",
                 "repo": "keycloakify",
-                "stars": 2553
+                "stars": 2555
               }
             },
             {
@@ -1877,7 +1877,7 @@
                 "archived": false,
                 "id": 238473788,
                 "language": "Makefile",
-                "last_commit": "2026-08-14T10:16:29Z",
+                "last_commit": "2026-08-25T05:55:16Z",
                 "owner": "pulumi",
                 "repo": "pulumi-keycloak",
                 "stars": 52
@@ -1936,10 +1936,10 @@
                 "archived": false,
                 "id": 11125589,
                 "language": "Java",
-                "last_commit": "2026-08-24T19:14:33Z",
+                "last_commit": "2026-08-25T01:01:08Z",
                 "owner": "keycloak",
                 "repo": "keycloak",
-                "stars": 36385
+                "stars": 36391
               }
             },
             {
@@ -2469,7 +2469,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T22:42:31.194Z",
+    "last_updated": "2026-08-25T05:58:54.285Z",
     "original_repository": "thomasdarimont/awesome-keycloak",
     "original_repository_id": 63047721,
     "original_repository_sha": "457a44c6428a3e6a6e95645866420834793b90e1",
