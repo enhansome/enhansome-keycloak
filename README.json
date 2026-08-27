@@ -14,10 +14,10 @@
                 "archived": false,
                 "id": 11125589,
                 "language": "Java",
-                "last_commit": "2026-08-25T16:07:57Z",
+                "last_commit": "2026-08-27T01:54:36Z",
                 "owner": "keycloak",
                 "repo": "keycloak",
-                "stars": 36408
+                "stars": 36433
               }
             },
             {
@@ -155,7 +155,7 @@
                 "archived": false,
                 "id": 213330914,
                 "language": "Java",
-                "last_commit": "2026-08-21T12:05:05Z",
+                "last_commit": "2026-08-26T15:01:50Z",
                 "owner": "TNG",
                 "repo": "keycloak-mock",
                 "stars": 135
@@ -582,7 +582,7 @@
                 "archived": false,
                 "id": 249940209,
                 "language": "Java",
-                "last_commit": "2026-08-25T17:02:32Z",
+                "last_commit": "2026-08-26T14:51:30Z",
                 "owner": "cnieg",
                 "repo": "keycloak-login-attribute",
                 "stars": 49
@@ -1132,7 +1132,7 @@
                 "last_commit": "2026-08-24T19:53:54Z",
                 "owner": "OpenIDC",
                 "repo": "mod_auth_openidc",
-                "stars": 1092
+                "stars": 1093
               }
             },
             {
@@ -1147,7 +1147,7 @@
                 "last_commit": "2026-08-24T04:43:59Z",
                 "owner": "keycloak",
                 "repo": "terraform-provider-keycloak",
-                "stars": 944
+                "stars": 945
               }
             },
             {
@@ -1249,7 +1249,7 @@
                 "archived": false,
                 "id": 157725482,
                 "language": "Java",
-                "last_commit": "2026-07-24T09:26:10Z",
+                "last_commit": "2026-08-26T14:54:49Z",
                 "owner": "InseeFr",
                 "repo": "Keycloak-FranceConnect",
                 "stars": 106
@@ -1745,7 +1745,7 @@
                 "last_commit": "2026-08-17T18:38:54Z",
                 "owner": "adorsys",
                 "repo": "keycloak-config-cli",
-                "stars": 1179
+                "stars": 1180
               }
             },
             {
@@ -1790,7 +1790,7 @@
                 "last_commit": "2026-08-04T05:59:21Z",
                 "owner": "ccouzens",
                 "repo": "keycloak-openapi",
-                "stars": 181
+                "stars": 180
               }
             },
             {
@@ -1805,7 +1805,7 @@
                 "last_commit": "2026-08-20T21:24:15Z",
                 "owner": "iteratec",
                 "repo": "kcwarden",
-                "stars": 130
+                "stars": 131
               }
             },
             {
@@ -1877,7 +1877,7 @@
                 "archived": false,
                 "id": 238473788,
                 "language": "Makefile",
-                "last_commit": "2026-08-25T06:02:49Z",
+                "last_commit": "2026-08-26T06:12:24Z",
                 "owner": "pulumi",
                 "repo": "pulumi-keycloak",
                 "stars": 52
@@ -1936,10 +1936,10 @@
                 "archived": false,
                 "id": 11125589,
                 "language": "Java",
-                "last_commit": "2026-08-25T16:07:57Z",
+                "last_commit": "2026-08-27T01:54:36Z",
                 "owner": "keycloak",
                 "repo": "keycloak",
-                "stars": 36408
+                "stars": 36433
               }
             },
             {
@@ -1954,7 +1954,7 @@
                 "last_commit": "2026-08-19T05:43:29Z",
                 "owner": "keycloak",
                 "repo": "keycloak-quickstarts",
-                "stars": 2352
+                "stars": 2355
               }
             },
             {
@@ -1996,7 +1996,7 @@
                 "archived": false,
                 "id": 69779247,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T06:07:21Z",
+                "last_commit": "2026-08-26T15:24:50Z",
                 "owner": "CodeverDotDev",
                 "repo": "codever",
                 "stars": 385
@@ -2356,7 +2356,7 @@
                 "archived": false,
                 "id": 751264061,
                 "language": "Shell",
-                "last_commit": "2026-08-25T13:48:58Z",
+                "last_commit": "2026-08-26T15:08:31Z",
                 "owner": "adorsys",
                 "repo": "keycloak-ssi-deployment",
                 "stars": 14
@@ -2469,7 +2469,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T22:43:45.339Z",
+    "last_updated": "2026-08-27T03:17:22.473Z",
     "original_repository": "thomasdarimont/awesome-keycloak",
     "original_repository_id": 63047721,
     "original_repository_sha": "457a44c6428a3e6a6e95645866420834793b90e1",
