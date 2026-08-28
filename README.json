@@ -14,11 +14,12 @@
                 "archived": false,
                 "id": 11125589,
                 "language": "Java",
-                "last_commit": "2026-08-27T09:47:28Z",
+                "last_commit": "2026-08-28T05:45:06Z",
                 "owner": "keycloak",
                 "repo": "keycloak",
-                "stars": 36444
-              }
+                "stars": 36454
+              },
+              "first_seen": "2026-08-28T06:06:05.850Z"
             },
             {
               "node_type": "item",
@@ -33,7 +34,8 @@
                 "owner": "keycloak",
                 "repo": "keycloak-oauth-sig",
                 "stars": 102
-              }
+              },
+              "first_seen": "2026-08-28T06:06:05.850Z"
             },
             {
               "node_type": "item",
@@ -48,7 +50,8 @@
                 "owner": "keycloak",
                 "repo": "keycloak-sre-sig",
                 "stars": 29
-              }
+              },
+              "first_seen": "2026-08-28T06:06:05.850Z"
             }
           ],
           "description": null,
@@ -70,7 +73,8 @@
                 "owner": "d4rkstar",
                 "repo": "kong-konga-keycloak",
                 "stars": 300
-              }
+              },
+              "first_seen": "2026-08-28T06:06:05.850Z"
             },
             {
               "node_type": "item",
@@ -85,7 +89,8 @@
                 "owner": "fit2anything",
                 "repo": "keycloak-cluster-setup-and-configuration",
                 "stars": 50
-              }
+              },
+              "first_seen": "2026-08-28T06:06:05.850Z"
             }
           ],
           "description": null,
@@ -103,11 +108,12 @@
                 "archived": false,
                 "id": 887738099,
                 "language": "Java",
-                "last_commit": "2026-08-25T04:37:44Z",
+                "last_commit": "2026-08-28T05:59:18Z",
                 "owner": "tide-foundation",
                 "repo": "keycloak-IGA",
                 "stars": 12
-              }
+              },
+              "first_seen": "2026-08-28T06:06:05.850Z"
             }
           ],
           "description": null,
@@ -129,7 +135,8 @@
                 "owner": "keycloak",
                 "repo": "keycloak-nodejs-admin-client",
                 "stars": 604
-              }
+              },
+              "first_seen": "2026-08-28T06:06:05.850Z"
             },
             {
               "node_type": "item",
@@ -144,7 +151,8 @@
                 "owner": "anonrig",
                 "repo": "nestjs-keycloak-admin",
                 "stars": 191
-              }
+              },
+              "first_seen": "2026-08-28T06:06:05.850Z"
             },
             {
               "node_type": "item",
@@ -159,7 +167,8 @@
                 "owner": "TNG",
                 "repo": "keycloak-mock",
                 "stars": 135
-              }
+              },
+              "first_seen": "2026-08-28T06:06:05.850Z"
             },
             {
               "node_type": "item",
@@ -174,7 +183,8 @@
                 "owner": "fschick",
                 "repo": "Keycloak.RestApiClient",
                 "stars": 86
-              }
+              },
+              "first_seen": "2026-08-28T06:06:05.850Z"
             },
             {
               "node_type": "item",
@@ -185,11 +195,12 @@
                 "archived": false,
                 "id": 105982281,
                 "language": "Go",
-                "last_commit": "2026-08-24T14:52:39Z",
+                "last_commit": "2026-08-27T17:13:15Z",
                 "owner": "cloudtrust",
                 "repo": "keycloak-client",
                 "stars": 25
-              }
+              },
+              "first_seen": "2026-08-28T06:06:05.850Z"
             },
             {
               "node_type": "item",
@@ -204,7 +215,8 @@
                 "owner": "acie-io",
                 "repo": "ackc",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T06:06:05.850Z"
             }
           ],
           "description": null,
@@ -226,7 +238,8 @@
                 "owner": "louketo",
                 "repo": "louketo-proxy",
                 "stars": 948
-              }
+              },
+              "first_seen": "2026-08-28T06:06:05.850Z"
             },
             {
               "node_type": "item",
@@ -241,7 +254,8 @@
                 "owner": "aerogear",
                 "repo": "keycloak-metrics-spi",
                 "stars": 616
-              }
+              },
+              "first_seen": "2026-08-28T06:06:05.850Z"
             },
             {
               "node_type": "item",
@@ -256,7 +270,8 @@
                 "owner": "p2-inc",
                 "repo": "keycloak-orgs",
                 "stars": 541
-              }
+              },
+              "first_seen": "2026-08-28T06:06:05.850Z"
             },
             {
               "node_type": "item",
@@ -271,7 +286,8 @@
                 "owner": "p2-inc",
                 "repo": "keycloak-magic-link",
                 "stars": 425
-              }
+              },
+              "first_seen": "2026-08-28T06:06:05.850Z"
             },
             {
               "node_type": "item",
@@ -286,7 +302,8 @@
                 "owner": "sventorben",
                 "repo": "keycloak-home-idp-discovery",
                 "stars": 341
-              }
+              },
+              "first_seen": "2026-08-28T06:06:05.850Z"
             },
             {
               "node_type": "item",
@@ -301,7 +318,8 @@
                 "owner": "p2-inc",
                 "repo": "keycloak-events",
                 "stars": 312
-              }
+              },
+              "first_seen": "2026-08-28T06:06:05.850Z"
             },
             {
               "node_type": "item",
@@ -312,11 +330,12 @@
                 "archived": false,
                 "id": 506125944,
                 "language": "Java",
-                "last_commit": "2026-08-27T07:27:51Z",
+                "last_commit": "2026-08-27T13:40:05Z",
                 "owner": "netzbegruenung",
                 "repo": "keycloak-mfa-plugins",
                 "stars": 288
-              }
+              },
+              "first_seen": "2026-08-28T06:06:05.850Z"
             },
             {
               "node_type": "item",
@@ -331,7 +350,8 @@
                 "owner": "mesutpiskin",
                 "repo": "keycloak-2fa-email-authenticator",
                 "stars": 280
-              }
+              },
+              "first_seen": "2026-08-28T06:06:05.850Z"
             },
             {
               "node_type": "item",
@@ -346,7 +366,8 @@
                 "owner": "zonaut",
                 "repo": "keycloak-extensions",
                 "stars": 230
-              }
+              },
+              "first_seen": "2026-08-28T06:06:05.850Z"
             },
             {
               "node_type": "item",
@@ -361,7 +382,8 @@
                 "owner": "Captain-P-Goldfish",
                 "repo": "scim-for-keycloak",
                 "stars": 208
-              }
+              },
+              "first_seen": "2026-08-28T06:06:05.850Z"
             },
             {
               "node_type": "item",
@@ -376,7 +398,8 @@
                 "owner": "keycloak",
                 "repo": "keycloak-benchmark",
                 "stars": 176
-              }
+              },
+              "first_seen": "2026-08-28T06:06:05.850Z"
             },
             {
               "node_type": "item",
@@ -391,7 +414,8 @@
                 "owner": "anarsultanov",
                 "repo": "keycloak-multi-tenancy",
                 "stars": 171
-              }
+              },
+              "first_seen": "2026-08-28T06:06:05.850Z"
             },
             {
               "node_type": "item",
@@ -406,7 +430,8 @@
                 "owner": "leroyguillaume",
                 "repo": "keycloak-bcrypt",
                 "stars": 168
-              }
+              },
+              "first_seen": "2026-08-28T06:06:05.850Z"
             },
             {
               "node_type": "item",
@@ -421,7 +446,8 @@
                 "owner": "wadahiro",
                 "repo": "keycloak-discord",
                 "stars": 158
-              }
+              },
+              "first_seen": "2026-08-28T06:06:05.850Z"
             },
             {
               "node_type": "item",
@@ -436,7 +462,8 @@
                 "owner": "SnuK87",
                 "repo": "keycloak-kafka",
                 "stars": 145
-              }
+              },
+              "first_seen": "2026-08-28T06:06:05.850Z"
             },
             {
               "node_type": "item",
@@ -447,11 +474,12 @@
                 "archived": false,
                 "id": 628094839,
                 "language": "Kotlin",
-                "last_commit": "2026-08-24T17:54:47Z",
+                "last_commit": "2026-08-27T17:53:06Z",
                 "owner": "vymalo",
                 "repo": "keycloak-webhook",
                 "stars": 112
-              }
+              },
+              "first_seen": "2026-08-28T06:06:05.850Z"
             },
             {
               "node_type": "item",
@@ -466,7 +494,8 @@
                 "owner": "mabartos",
                 "repo": "keycloak-adaptive-authn",
                 "stars": 100
-              }
+              },
+              "first_seen": "2026-08-28T06:06:05.850Z"
             },
             {
               "node_type": "item",
@@ -481,7 +510,8 @@
                 "owner": "nickpack",
                 "repo": "keycloak-sms-authenticator-sns",
                 "stars": 72
-              }
+              },
+              "first_seen": "2026-08-28T06:06:05.850Z"
             },
             {
               "node_type": "item",
@@ -496,7 +526,8 @@
                 "owner": "Doccrazy",
                 "repo": "keycloak-protocol-cas",
                 "stars": 67
-              }
+              },
+              "first_seen": "2026-08-28T06:06:05.850Z"
             },
             {
               "node_type": "item",
@@ -511,7 +542,8 @@
                 "owner": "instipod",
                 "repo": "DuoUniversalKeycloakAuthenticator",
                 "stars": 61
-              }
+              },
+              "first_seen": "2026-08-28T06:06:05.850Z"
             },
             {
               "node_type": "item",
@@ -526,7 +558,8 @@
                 "owner": "embesozzi",
                 "repo": "keycloak-openfga-event-publisher",
                 "stars": 61
-              }
+              },
+              "first_seen": "2026-08-28T06:06:05.850Z"
             },
             {
               "node_type": "item",
@@ -541,7 +574,8 @@
                 "owner": "wouterh-dev",
                 "repo": "keycloak-spi-trusted-device",
                 "stars": 56
-              }
+              },
+              "first_seen": "2026-08-28T06:06:05.850Z"
             },
             {
               "node_type": "item",
@@ -556,7 +590,8 @@
                 "owner": "cloudtrust",
                 "repo": "keycloak-export",
                 "stars": 51
-              }
+              },
+              "first_seen": "2026-08-28T06:06:05.850Z"
             },
             {
               "node_type": "item",
@@ -571,7 +606,8 @@
                 "owner": "evosec",
                 "repo": "keycloak-ipaddress-authenticator",
                 "stars": 50
-              }
+              },
+              "first_seen": "2026-08-28T06:06:05.850Z"
             },
             {
               "node_type": "item",
@@ -586,7 +622,8 @@
                 "owner": "cnieg",
                 "repo": "keycloak-login-attribute",
                 "stars": 49
-              }
+              },
+              "first_seen": "2026-08-28T06:06:05.850Z"
             },
             {
               "node_type": "item",
@@ -601,7 +638,8 @@
                 "owner": "kokuwaio",
                 "repo": "keycloak-event-metrics",
                 "stars": 44
-              }
+              },
+              "first_seen": "2026-08-28T06:06:05.850Z"
             },
             {
               "node_type": "item",
@@ -616,7 +654,8 @@
                 "owner": "cloudtrust",
                 "repo": "keycloak-wsfed",
                 "stars": 38
-              }
+              },
+              "first_seen": "2026-08-28T06:06:05.850Z"
             },
             {
               "node_type": "item",
@@ -631,7 +670,8 @@
                 "owner": "sd-f",
                 "repo": "keycloak-custom-attribute-idp-linking",
                 "stars": 36
-              }
+              },
+              "first_seen": "2026-08-28T06:06:05.850Z"
             },
             {
               "node_type": "item",
@@ -646,7 +686,8 @@
                 "owner": "p2-inc",
                 "repo": "phasetwo-admin-portal",
                 "stars": 34
-              }
+              },
+              "first_seen": "2026-08-28T06:06:05.850Z"
             },
             {
               "node_type": "item",
@@ -661,7 +702,8 @@
                 "owner": "embesozzi",
                 "repo": "keycloak-webauthn-conditional-mediation",
                 "stars": 28
-              }
+              },
+              "first_seen": "2026-08-28T06:06:05.850Z"
             },
             {
               "node_type": "item",
@@ -676,7 +718,8 @@
                 "owner": "ohioit",
                 "repo": "keycloak-link-idp-with-user",
                 "stars": 25
-              }
+              },
+              "first_seen": "2026-08-28T06:06:05.850Z"
             },
             {
               "node_type": "item",
@@ -691,7 +734,8 @@
                 "owner": "alexashley",
                 "repo": "keycloak-password-policy-have-i-been-pwned",
                 "stars": 24
-              }
+              },
+              "first_seen": "2026-08-28T06:06:05.850Z"
             },
             {
               "node_type": "item",
@@ -706,7 +750,8 @@
                 "owner": "p2-inc",
                 "repo": "keycloak-redis-cache",
                 "stars": 22
-              }
+              },
+              "first_seen": "2026-08-28T06:06:05.850Z"
             },
             {
               "node_type": "item",
@@ -721,7 +766,8 @@
                 "owner": "LucaFilipozzi",
                 "repo": "keycloak-regex-mapper",
                 "stars": 21
-              }
+              },
+              "first_seen": "2026-08-28T06:06:05.850Z"
             },
             {
               "node_type": "item",
@@ -736,7 +782,8 @@
                 "owner": "rciam",
                 "repo": "keycloak-group-management",
                 "stars": 19
-              }
+              },
+              "first_seen": "2026-08-28T06:06:05.850Z"
             },
             {
               "node_type": "item",
@@ -751,7 +798,8 @@
                 "owner": "califio",
                 "repo": "keycloak-recaptcha-password-defense",
                 "stars": 14
-              }
+              },
+              "first_seen": "2026-08-28T06:06:05.850Z"
             },
             {
               "node_type": "item",
@@ -766,7 +814,8 @@
                 "owner": "lifs-tools",
                 "repo": "keycloak-docker-role-mapper",
                 "stars": 13
-              }
+              },
+              "first_seen": "2026-08-28T06:06:05.850Z"
             },
             {
               "node_type": "item",
@@ -781,7 +830,8 @@
                 "owner": "moremagic",
                 "repo": "keycloak-jdbc-ping",
                 "stars": 12
-              }
+              },
+              "first_seen": "2026-08-28T06:06:05.850Z"
             },
             {
               "node_type": "item",
@@ -796,7 +846,8 @@
                 "owner": "blevine",
                 "repo": "keycloak-graphql",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-28T06:06:05.850Z"
             },
             {
               "node_type": "item",
@@ -811,7 +862,8 @@
                 "owner": "Nordix",
                 "repo": "keycloak-secrets-vault-provider",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-28T06:06:05.850Z"
             },
             {
               "node_type": "item",
@@ -826,7 +878,8 @@
                 "owner": "sayedcsekuet",
                 "repo": "keycloak-user-group-based-password-policy",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T06:06:05.850Z"
             },
             {
               "node_type": "item",
@@ -841,7 +894,8 @@
                 "owner": "hokumski",
                 "repo": "keycloak-verifyemailwithcode",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T06:06:05.850Z"
             },
             {
               "node_type": "item",
@@ -856,7 +910,8 @@
                 "owner": "eliskachylikova",
                 "repo": "keycloak-extensions",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T06:06:05.850Z"
             },
             {
               "node_type": "item",
@@ -871,7 +926,8 @@
                 "owner": "slemke",
                 "repo": "keycloak-gdpr-event-logger",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T06:06:05.850Z"
             },
             {
               "node_type": "item",
@@ -886,7 +942,8 @@
                 "owner": "cloudtrust",
                 "repo": "keycloak-client-mappers",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T06:06:05.850Z"
             },
             {
               "node_type": "item",
@@ -901,7 +958,8 @@
                 "owner": "softwarefactory-project",
                 "repo": "keycloak-filter-provider-users",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T06:06:05.850Z"
             },
             {
               "node_type": "item",
@@ -916,7 +974,8 @@
                 "owner": "L21s",
                 "repo": "keycloak-eid-identity-provider",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T06:06:05.850Z"
             },
             {
               "node_type": "item",
@@ -931,7 +990,8 @@
                 "owner": "cyclone-project",
                 "repo": "cyclone-client-registration",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T06:06:05.850Z"
             },
             {
               "node_type": "item",
@@ -946,7 +1006,8 @@
                 "owner": "stfc",
                 "repo": "keycloak-email-on-user-creation",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T06:06:05.850Z"
             },
             {
               "node_type": "item",
@@ -961,7 +1022,8 @@
                 "owner": "christian-posta",
                 "repo": "spiffe-svid-client-authenticator",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T06:06:05.850Z"
             },
             {
               "node_type": "item",
@@ -976,7 +1038,8 @@
                 "owner": "mitre",
                 "repo": "keycloak-custom-policies",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T06:06:05.850Z"
             },
             {
               "node_type": "item",
@@ -987,11 +1050,12 @@
                 "archived": false,
                 "id": 676066054,
                 "language": "TypeScript",
-                "last_commit": "2026-08-25T06:07:48Z",
+                "last_commit": "2026-08-28T06:03:48Z",
                 "owner": "slemke",
                 "repo": "keycloak-testcontainer",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T06:06:05.850Z"
             },
             {
               "node_type": "item",
@@ -1006,7 +1070,8 @@
                 "owner": "SebastEnn",
                 "repo": "impersonation-notification",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T06:06:05.850Z"
             },
             {
               "node_type": "item",
@@ -1021,7 +1086,8 @@
                 "owner": "Bredstone",
                 "repo": "Keycloak-Extension-OIDC4IDA",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T06:06:05.850Z"
             },
             {
               "node_type": "item",
@@ -1036,7 +1102,8 @@
                 "owner": "netzbegruenung",
                 "repo": "keycloak-scriptmapper-ldap-id",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T06:06:05.850Z"
             },
             {
               "node_type": "item",
@@ -1051,7 +1118,8 @@
                 "owner": "ldesroch",
                 "repo": "keycloak-pin-code-authenticator",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T06:06:05.850Z"
             },
             {
               "node_type": "item",
@@ -1066,7 +1134,8 @@
                 "owner": "dominikschlosser",
                 "repo": "keycloak-cookieless-idp-extension",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T06:06:05.850Z"
             },
             {
               "node_type": "item",
@@ -1077,11 +1146,12 @@
                 "archived": false,
                 "id": 737544936,
                 "language": "FreeMarker",
-                "last_commit": "2026-08-24T00:58:23Z",
+                "last_commit": "2026-08-27T12:09:50Z",
                 "owner": "slemke",
                 "repo": "keycloak-backup-email",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T06:06:05.850Z"
             },
             {
               "node_type": "item",
@@ -1092,11 +1162,12 @@
                 "archived": false,
                 "id": 773821538,
                 "language": "Java",
-                "last_commit": "2026-08-24T14:47:55Z",
+                "last_commit": "2026-08-27T12:06:27Z",
                 "owner": "slemke",
                 "repo": "keycloak-terms-authenticator",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T06:06:05.850Z"
             }
           ],
           "description": null,
@@ -1118,7 +1189,8 @@
                 "owner": "Nerzal",
                 "repo": "gocloak",
                 "stars": 1251
-              }
+              },
+              "first_seen": "2026-08-28T06:06:05.850Z"
             },
             {
               "node_type": "item",
@@ -1133,7 +1205,8 @@
                 "owner": "OpenIDC",
                 "repo": "mod_auth_openidc",
                 "stars": 1093
-              }
+              },
+              "first_seen": "2026-08-28T06:06:05.850Z"
             },
             {
               "node_type": "item",
@@ -1148,7 +1221,8 @@
                 "owner": "keycloak",
                 "repo": "terraform-provider-keycloak",
                 "stars": 945
-              }
+              },
+              "first_seen": "2026-08-28T06:06:05.850Z"
             },
             {
               "node_type": "item",
@@ -1163,7 +1237,8 @@
                 "owner": "marcospereirampj",
                 "repo": "python-keycloak",
                 "stars": 882
-              }
+              },
+              "first_seen": "2026-08-28T06:06:05.850Z"
             },
             {
               "node_type": "item",
@@ -1178,7 +1253,8 @@
                 "owner": "keycloak",
                 "repo": "keycloak-nodejs-connect",
                 "stars": 740
-              }
+              },
+              "first_seen": "2026-08-28T06:06:05.850Z"
             },
             {
               "node_type": "item",
@@ -1193,7 +1269,8 @@
                 "owner": "react-keycloak",
                 "repo": "react-keycloak",
                 "stars": 561
-              }
+              },
+              "first_seen": "2026-08-28T06:06:05.850Z"
             },
             {
               "node_type": "item",
@@ -1208,7 +1285,8 @@
                 "owner": "stevenmaguire",
                 "repo": "oauth2-keycloak",
                 "stars": 227
-              }
+              },
+              "first_seen": "2026-08-28T06:06:05.850Z"
             },
             {
               "node_type": "item",
@@ -1223,7 +1301,8 @@
                 "owner": "aerogear",
                 "repo": "keycloak-connect-graphql",
                 "stars": 158
-              }
+              },
+              "first_seen": "2026-08-28T06:06:05.850Z"
             },
             {
               "node_type": "item",
@@ -1238,7 +1317,8 @@
                 "owner": "BenjaminFavre",
                 "repo": "keycloak-apple-social-identity-provider",
                 "stars": 117
-              }
+              },
+              "first_seen": "2026-08-28T06:06:05.850Z"
             },
             {
               "node_type": "item",
@@ -1253,7 +1333,8 @@
                 "owner": "InseeFr",
                 "repo": "Keycloak-FranceConnect",
                 "stars": 106
-              }
+              },
+              "first_seen": "2026-08-28T06:06:05.850Z"
             },
             {
               "node_type": "item",
@@ -1268,7 +1349,8 @@
                 "owner": "keycloak-client",
                 "repo": "keycloak-client",
                 "stars": 58
-              }
+              },
+              "first_seen": "2026-08-28T06:06:05.850Z"
             },
             {
               "node_type": "item",
@@ -1283,7 +1365,8 @@
                 "owner": "jenkinsci",
                 "repo": "keycloak-plugin",
                 "stars": 41
-              }
+              },
+              "first_seen": "2026-08-28T06:06:05.850Z"
             },
             {
               "node_type": "item",
@@ -1298,7 +1381,8 @@
                 "owner": "felixheck",
                 "repo": "hapi-auth-keycloak",
                 "stars": 36
-              }
+              },
+              "first_seen": "2026-08-28T06:06:05.850Z"
             },
             {
               "node_type": "item",
@@ -1313,7 +1397,8 @@
                 "owner": "derlin",
                 "repo": "mantelo",
                 "stars": 35
-              }
+              },
+              "first_seen": "2026-08-28T06:06:05.850Z"
             },
             {
               "node_type": "item",
@@ -1328,7 +1413,8 @@
                 "owner": "oviva-ag",
                 "repo": "ehealthid-relying-party",
                 "stars": 23
-              }
+              },
+              "first_seen": "2026-08-28T06:06:05.850Z"
             },
             {
               "node_type": "item",
@@ -1343,7 +1429,8 @@
                 "owner": "keycloak",
                 "repo": "openshift-integration",
                 "stars": 22
-              }
+              },
+              "first_seen": "2026-08-28T06:06:05.850Z"
             },
             {
               "node_type": "item",
@@ -1358,7 +1445,8 @@
                 "owner": "Serviceware",
                 "repo": "vault-plugin-secrets-keycloak",
                 "stars": 20
-              }
+              },
+              "first_seen": "2026-08-28T06:06:05.850Z"
             },
             {
               "node_type": "item",
@@ -1373,7 +1461,8 @@
                 "owner": "JaouherK",
                 "repo": "Kong-konga-Keycloak",
                 "stars": 14
-              }
+              },
+              "first_seen": "2026-08-28T06:06:05.850Z"
             },
             {
               "node_type": "item",
@@ -1388,7 +1477,8 @@
                 "owner": "santiblanko",
                 "repo": "keycloak-nextjs-auth",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T06:06:05.850Z"
             },
             {
               "node_type": "item",
@@ -1403,7 +1493,8 @@
                 "owner": "authbroker",
                 "repo": "authbroker",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T06:06:05.850Z"
             },
             {
               "node_type": "item",
@@ -1418,7 +1509,8 @@
                 "owner": "mxab",
                 "repo": "meteor-keycloak",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T06:06:05.850Z"
             },
             {
               "node_type": "item",
@@ -1433,7 +1525,8 @@
                 "owner": "micrometer-metrics",
                 "repo": "micrometer-keycloak",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T06:06:05.850Z"
             },
             {
               "node_type": "item",
@@ -1448,7 +1541,8 @@
                 "owner": "waynepennington",
                 "repo": "aurelia-keycloak",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T06:06:05.850Z"
             },
             {
               "node_type": "item",
@@ -1463,7 +1557,8 @@
                 "owner": "JaouherK",
                 "repo": "keycloak-privacyIdea",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T06:06:05.850Z"
             }
           ],
           "description": null,
@@ -1485,7 +1580,8 @@
                 "owner": "keycloakify",
                 "repo": "keycloakify",
                 "stars": 2558
-              }
+              },
+              "first_seen": "2026-08-28T06:06:05.850Z"
             },
             {
               "node_type": "item",
@@ -1500,7 +1596,8 @@
                 "owner": "lukin",
                 "repo": "keywind",
                 "stars": 904
-              }
+              },
+              "first_seen": "2026-08-28T06:06:05.850Z"
             },
             {
               "node_type": "item",
@@ -1515,7 +1612,8 @@
                 "owner": "UKHomeOffice",
                 "repo": "keycloak-theme-govuk",
                 "stars": 144
-              }
+              },
+              "first_seen": "2026-08-28T06:06:05.850Z"
             },
             {
               "node_type": "item",
@@ -1530,7 +1628,8 @@
                 "owner": "MAXIMUS-DeltaWare",
                 "repo": "adminlte-keycloak-theme",
                 "stars": 91
-              }
+              },
+              "first_seen": "2026-08-28T06:06:05.850Z"
             },
             {
               "node_type": "item",
@@ -1545,7 +1644,8 @@
                 "owner": "ALMiG-Kompressoren-GmbH",
                 "repo": "tailcloakify",
                 "stars": 84
-              }
+              },
+              "first_seen": "2026-08-28T06:06:05.850Z"
             },
             {
               "node_type": "item",
@@ -1560,7 +1660,8 @@
                 "owner": "p2-inc",
                 "repo": "keycloak-themes",
                 "stars": 53
-              }
+              },
+              "first_seen": "2026-08-28T06:06:05.850Z"
             },
             {
               "node_type": "item",
@@ -1575,7 +1676,8 @@
                 "owner": "p2-inc",
                 "repo": "keycloak-themes",
                 "stars": 53
-              }
+              },
+              "first_seen": "2026-08-28T06:06:05.850Z"
             },
             {
               "node_type": "item",
@@ -1590,7 +1692,8 @@
                 "owner": "p2-inc",
                 "repo": "keycloak-theme-template",
                 "stars": 47
-              }
+              },
+              "first_seen": "2026-08-28T06:06:05.850Z"
             },
             {
               "node_type": "item",
@@ -1605,7 +1708,8 @@
                 "owner": "santiblanko",
                 "repo": "tailwind-keycloak-theme",
                 "stars": 44
-              }
+              },
+              "first_seen": "2026-08-28T06:06:05.850Z"
             },
             {
               "node_type": "item",
@@ -1620,7 +1724,8 @@
                 "owner": "0xHexE",
                 "repo": "carbon-keycloak-theme",
                 "stars": 27
-              }
+              },
+              "first_seen": "2026-08-28T06:06:05.850Z"
             },
             {
               "node_type": "item",
@@ -1635,7 +1740,8 @@
                 "owner": "lfryc",
                 "repo": "keycloak-ionic-theme",
                 "stars": 21
-              }
+              },
+              "first_seen": "2026-08-28T06:06:05.850Z"
             }
           ],
           "description": null,
@@ -1657,7 +1763,8 @@
                 "owner": "keycloak",
                 "repo": "keycloak-containers",
                 "stars": 1459
-              }
+              },
+              "first_seen": "2026-08-28T06:06:05.850Z"
             },
             {
               "node_type": "item",
@@ -1672,7 +1779,8 @@
                 "owner": "OpenPj",
                 "repo": "keycloak-docker-quickstart",
                 "stars": 33
-              }
+              },
+              "first_seen": "2026-08-28T06:06:05.850Z"
             }
           ],
           "description": null,
@@ -1694,7 +1802,8 @@
                 "owner": "codecentric",
                 "repo": "helm-charts",
                 "stars": 741
-              }
+              },
+              "first_seen": "2026-08-28T06:06:05.850Z"
             },
             {
               "node_type": "item",
@@ -1709,7 +1818,8 @@
                 "owner": "codecentric",
                 "repo": "helm-charts",
                 "stars": 741
-              }
+              },
+              "first_seen": "2026-08-28T06:06:05.850Z"
             },
             {
               "node_type": "item",
@@ -1724,7 +1834,8 @@
                 "owner": "keycloak",
                 "repo": "keycloak-operator",
                 "stars": 430
-              }
+              },
+              "first_seen": "2026-08-28T06:06:05.850Z"
             }
           ],
           "description": null,
@@ -1746,7 +1857,8 @@
                 "owner": "adorsys",
                 "repo": "keycloak-config-cli",
                 "stars": 1180
-              }
+              },
+              "first_seen": "2026-08-28T06:06:05.850Z"
             },
             {
               "node_type": "item",
@@ -1761,7 +1873,8 @@
                 "owner": "louketo",
                 "repo": "louketo-proxy",
                 "stars": 948
-              }
+              },
+              "first_seen": "2026-08-28T06:06:05.850Z"
             },
             {
               "node_type": "item",
@@ -1776,7 +1889,8 @@
                 "owner": "aws-samples",
                 "repo": "keycloak-on-aws",
                 "stars": 200
-              }
+              },
+              "first_seen": "2026-08-28T06:06:05.850Z"
             },
             {
               "node_type": "item",
@@ -1791,7 +1905,8 @@
                 "owner": "ccouzens",
                 "repo": "keycloak-openapi",
                 "stars": 180
-              }
+              },
+              "first_seen": "2026-08-28T06:06:05.850Z"
             },
             {
               "node_type": "item",
@@ -1806,7 +1921,8 @@
                 "owner": "iteratec",
                 "repo": "kcwarden",
                 "stars": 131
-              }
+              },
+              "first_seen": "2026-08-28T06:06:05.850Z"
             },
             {
               "node_type": "item",
@@ -1821,7 +1937,8 @@
                 "owner": "mayope",
                 "repo": "keycloakmigration",
                 "stars": 128
-              }
+              },
+              "first_seen": "2026-08-28T06:06:05.850Z"
             },
             {
               "node_type": "item",
@@ -1836,7 +1953,8 @@
                 "owner": "please-openit",
                 "repo": "oidc-bash-client",
                 "stars": 125
-              }
+              },
+              "first_seen": "2026-08-28T06:06:05.850Z"
             },
             {
               "node_type": "item",
@@ -1851,7 +1969,8 @@
                 "owner": "aws-samples",
                 "repo": "cdk-keycloak",
                 "stars": 88
-              }
+              },
+              "first_seen": "2026-08-28T06:06:05.850Z"
             },
             {
               "node_type": "item",
@@ -1866,7 +1985,8 @@
                 "owner": "NeuronAddict",
                 "repo": "keycloak-scanner",
                 "stars": 69
-              }
+              },
+              "first_seen": "2026-08-28T06:06:05.850Z"
             },
             {
               "node_type": "item",
@@ -1877,11 +1997,12 @@
                 "archived": false,
                 "id": 238473788,
                 "language": "Makefile",
-                "last_commit": "2026-08-27T08:21:27Z",
+                "last_commit": "2026-08-27T21:48:30Z",
                 "owner": "pulumi",
                 "repo": "pulumi-keycloak",
                 "stars": 52
-              }
+              },
+              "first_seen": "2026-08-28T06:06:05.850Z"
             },
             {
               "node_type": "item",
@@ -1896,7 +2017,8 @@
                 "owner": "CycriLabs",
                 "repo": "keycloak-configurator",
                 "stars": 20
-              }
+              },
+              "first_seen": "2026-08-28T06:06:05.850Z"
             }
           ],
           "description": null,
@@ -1918,7 +2040,8 @@
                 "owner": "aws-samples",
                 "repo": "cdk-keycloak",
                 "stars": 88
-              }
+              },
+              "first_seen": "2026-08-28T06:06:05.850Z"
             }
           ],
           "description": null,
@@ -1936,11 +2059,12 @@
                 "archived": false,
                 "id": 11125589,
                 "language": "Java",
-                "last_commit": "2026-08-27T09:47:28Z",
+                "last_commit": "2026-08-28T05:45:06Z",
                 "owner": "keycloak",
                 "repo": "keycloak",
-                "stars": 36444
-              }
+                "stars": 36454
+              },
+              "first_seen": "2026-08-28T06:06:05.850Z"
             },
             {
               "node_type": "item",
@@ -1954,8 +2078,9 @@
                 "last_commit": "2026-08-19T05:43:29Z",
                 "owner": "keycloak",
                 "repo": "keycloak-quickstarts",
-                "stars": 2357
-              }
+                "stars": 2356
+              },
+              "first_seen": "2026-08-28T06:06:05.850Z"
             },
             {
               "node_type": "item",
@@ -1970,7 +2095,8 @@
                 "owner": "NikiforovAll",
                 "repo": "keycloak-authorization-services-dotnet",
                 "stars": 672
-              }
+              },
+              "first_seen": "2026-08-28T06:06:05.850Z"
             },
             {
               "node_type": "item",
@@ -1985,7 +2111,8 @@
                 "owner": "thomasdarimont",
                 "repo": "keycloak-project-example",
                 "stars": 393
-              }
+              },
+              "first_seen": "2026-08-28T06:06:05.850Z"
             },
             {
               "node_type": "item",
@@ -1996,11 +2123,12 @@
                 "archived": false,
                 "id": 69779247,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T05:17:14Z",
+                "last_commit": "2026-08-28T05:30:37Z",
                 "owner": "CodeverDotDev",
                 "repo": "codever",
                 "stars": 385
-              }
+              },
+              "first_seen": "2026-08-28T06:06:05.850Z"
             },
             {
               "node_type": "item",
@@ -2015,7 +2143,8 @@
                 "owner": "PacktPublishing",
                 "repo": "Keycloak-Identity-and-Access-Management-for-Modern-Applications",
                 "stars": 275
-              }
+              },
+              "first_seen": "2026-08-28T06:06:05.850Z"
             },
             {
               "node_type": "item",
@@ -2030,7 +2159,8 @@
                 "owner": "sebastienblanc",
                 "repo": "spring-boot-keycloak-tutorial",
                 "stars": 202
-              }
+              },
+              "first_seen": "2026-08-28T06:06:05.850Z"
             },
             {
               "node_type": "item",
@@ -2045,7 +2175,8 @@
                 "owner": "ivangfr",
                 "repo": "keycloak-clustered",
                 "stars": 198
-              }
+              },
+              "first_seen": "2026-08-28T06:06:05.850Z"
             },
             {
               "node_type": "item",
@@ -2060,7 +2191,8 @@
                 "owner": "openwallet-foundation",
                 "repo": "acapy-vc-authn-oidc",
                 "stars": 157
-              }
+              },
+              "first_seen": "2026-08-28T06:06:05.850Z"
             },
             {
               "node_type": "item",
@@ -2075,7 +2207,8 @@
                 "owner": "zak905",
                 "repo": "keycloak-api-key-demo",
                 "stars": 151
-              }
+              },
+              "first_seen": "2026-08-28T06:06:05.850Z"
             },
             {
               "node_type": "item",
@@ -2090,7 +2223,8 @@
                 "owner": "dteleguin",
                 "repo": "beercloak",
                 "stars": 143
-              }
+              },
+              "first_seen": "2026-08-28T06:06:05.850Z"
             },
             {
               "node_type": "item",
@@ -2105,7 +2239,8 @@
                 "owner": "stianst",
                 "repo": "keycloak-experimental",
                 "stars": 136
-              }
+              },
+              "first_seen": "2026-08-28T06:06:05.850Z"
             },
             {
               "node_type": "item",
@@ -2120,7 +2255,8 @@
                 "owner": "thomasdarimont",
                 "repo": "keycloak-user-storage-provider-demo",
                 "stars": 92
-              }
+              },
+              "first_seen": "2026-08-28T06:06:05.850Z"
             },
             {
               "node_type": "item",
@@ -2135,7 +2271,8 @@
                 "owner": "L21s",
                 "repo": "keycloak-monitoring-prometheus",
                 "stars": 64
-              }
+              },
+              "first_seen": "2026-08-28T06:06:05.850Z"
             },
             {
               "node_type": "item",
@@ -2150,7 +2287,8 @@
                 "owner": "thomasdarimont",
                 "repo": "spring-boot-admin-keycloak-example",
                 "stars": 60
-              }
+              },
+              "first_seen": "2026-08-28T06:06:05.850Z"
             },
             {
               "node_type": "item",
@@ -2165,7 +2303,8 @@
                 "owner": "embesozzi",
                 "repo": "keycloak-workshop-stepup-mfa-biometrics",
                 "stars": 59
-              }
+              },
+              "first_seen": "2026-08-28T06:06:05.850Z"
             },
             {
               "node_type": "item",
@@ -2180,7 +2319,8 @@
                 "owner": "stianst",
                 "repo": "demo-kubernetes",
                 "stars": 55
-              }
+              },
+              "first_seen": "2026-08-28T06:06:05.850Z"
             },
             {
               "node_type": "item",
@@ -2195,7 +2335,8 @@
                 "owner": "anthonny",
                 "repo": "kit-keycloak-theme",
                 "stars": 50
-              }
+              },
+              "first_seen": "2026-08-28T06:06:05.850Z"
             },
             {
               "node_type": "item",
@@ -2210,7 +2351,8 @@
                 "owner": "fschick",
                 "repo": "Keycloak.ASPNet.Angular",
                 "stars": 49
-              }
+              },
+              "first_seen": "2026-08-28T06:06:05.850Z"
             },
             {
               "node_type": "item",
@@ -2225,7 +2367,8 @@
                 "owner": "thomasdarimont",
                 "repo": "kc-dnc-demo",
                 "stars": 40
-              }
+              },
+              "first_seen": "2026-08-28T06:06:05.850Z"
             },
             {
               "node_type": "item",
@@ -2240,7 +2383,8 @@
                 "owner": "ThoreKr",
                 "repo": "keycloak-last-login-event-listener",
                 "stars": 34
-              }
+              },
+              "first_seen": "2026-08-28T06:06:05.850Z"
             },
             {
               "node_type": "item",
@@ -2255,7 +2399,8 @@
                 "owner": "dteleguin",
                 "repo": "keycloak-dynamic-branding",
                 "stars": 33
-              }
+              },
+              "first_seen": "2026-08-28T06:06:05.850Z"
             },
             {
               "node_type": "item",
@@ -2270,7 +2415,8 @@
                 "owner": "christian-posta",
                 "repo": "keycloak-agent-identity",
                 "stars": 31
-              }
+              },
+              "first_seen": "2026-08-28T06:06:05.850Z"
             },
             {
               "node_type": "item",
@@ -2285,7 +2431,8 @@
                 "owner": "pavelbogomolenko",
                 "repo": "keycloak-custom-password-hash",
                 "stars": 28
-              }
+              },
+              "first_seen": "2026-08-28T06:06:05.850Z"
             },
             {
               "node_type": "item",
@@ -2300,7 +2447,8 @@
                 "owner": "Amsterdam",
                 "repo": "keycloak_oidc",
                 "stars": 27
-              }
+              },
+              "first_seen": "2026-08-28T06:06:05.850Z"
             },
             {
               "node_type": "item",
@@ -2315,7 +2463,8 @@
                 "owner": "tomjackman",
                 "repo": "keyonic-v2",
                 "stars": 24
-              }
+              },
+              "first_seen": "2026-08-28T06:06:05.850Z"
             },
             {
               "node_type": "item",
@@ -2330,7 +2479,8 @@
                 "owner": "dteleguin",
                 "repo": "custom-admin-roles",
                 "stars": 15
-              }
+              },
+              "first_seen": "2026-08-28T06:06:05.850Z"
             },
             {
               "node_type": "item",
@@ -2345,7 +2495,8 @@
                 "owner": "dteleguin",
                 "repo": "custom-admin-roles",
                 "stars": 15
-              }
+              },
+              "first_seen": "2026-08-28T06:06:05.850Z"
             },
             {
               "node_type": "item",
@@ -2360,7 +2511,8 @@
                 "owner": "adorsys",
                 "repo": "keycloak-ssi-deployment",
                 "stars": 14
-              }
+              },
+              "first_seen": "2026-08-28T06:06:05.850Z"
             },
             {
               "node_type": "item",
@@ -2375,7 +2527,8 @@
                 "owner": "RedHatWorkshops",
                 "repo": "red-hat-sso",
                 "stars": 13
-              }
+              },
+              "first_seen": "2026-08-28T06:06:05.850Z"
             },
             {
               "node_type": "item",
@@ -2390,7 +2543,8 @@
                 "owner": "ComputerScienceHouse",
                 "repo": "keycloak-docker",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T06:06:05.850Z"
             },
             {
               "node_type": "item",
@@ -2405,7 +2559,8 @@
                 "owner": "mposolda",
                 "repo": "fapi-demo",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T06:06:05.850Z"
             },
             {
               "node_type": "item",
@@ -2420,7 +2575,8 @@
                 "owner": "xiaoyvr",
                 "repo": "custom-http-client-provider",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T06:06:05.850Z"
             },
             {
               "node_type": "item",
@@ -2435,7 +2591,8 @@
                 "owner": "christian-2",
                 "repo": "kundk",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T06:06:05.850Z"
             }
           ],
           "description": null,
@@ -2457,7 +2614,8 @@
                 "owner": "rvansa",
                 "repo": "keycloak-benchmark",
                 "stars": 34
-              }
+              },
+              "first_seen": "2026-08-28T06:06:05.850Z"
             }
           ],
           "description": null,
@@ -2469,7 +2627,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:46:19.535Z",
+    "last_updated": "2026-08-28T06:06:05.850Z",
     "original_repository_info": {
       "archived": false,
       "id": 63047721,
