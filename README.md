@@ -52,7 +52,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 ## Community, SIGs, Discussion Forums and Mailing Lists
 
-* [GitHub Discussions](https://github.com/keycloak/keycloak/discussions) ⭐ 36,454 | 🐛 3,131 | 🌐 Java | 📅 2026-08-28
+* [GitHub Discussions](https://github.com/keycloak/keycloak/discussions) ⭐ 36,475 | 🐛 3,152 | 🌐 Java | 📅 2026-08-29
 * [Keycloak OAuth SIG](https://github.com/keycloak/kc-sig-fapi) ⭐ 102 | 🐛 15 | 🌐 Shell | 📅 2026-08-24
 * [Keycloak SRE SIG](https://github.com/keycloak/keycloak-sre-sig) ⭐ 29 | 🐛 5 | 🌐 Handlebars | 📅 2026-07-16
 * [Keycloak Users Google Group](https://groups.google.com/forum/#!forum/keycloak-user)
@@ -213,7 +213,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 * [MagicLink Authenticator by Phase Two](https://github.com/p2-inc/keycloak-magic-link) ⭐ 425 | 🐛 19 | 🌐 Java | 📅 2026-07-20
 * [Keycloak: Home IdP Discovery extension](https://github.com/sventorben/keycloak-home-idp-discovery) ⭐ 341 | 🐛 17 | 🌐 Java | 📅 2026-08-25
 * [Useful Keycloak EventListenerProvider implementations and utilities](https://github.com/p2-inc/keycloak-events) ⭐ 312 | 🐛 6 | 🌐 Java | 📅 2026-07-10
-* [Keycloak MFA Plugins by @netzbegruenung](https://github.com/netzbegruenung/keycloak-mfa-plugins) ⭐ 288 | 🐛 40 | 🌐 Java | 📅 2026-08-27
+* [Keycloak MFA Plugins by @netzbegruenung](https://github.com/netzbegruenung/keycloak-mfa-plugins) ⭐ 288 | 🐛 40 | 🌐 Java | 📅 2026-08-28
 * [2FA with Code sent via Email](https://github.com/mesutpiskin/keycloak-2fa-email-authenticator) ⭐ 280 | 🐛 12 | 🌐 Java | 📅 2026-07-28
 * [zonaut/keycloak-extensions](https://github.com/zonaut/keycloak-extensions) ⭐ 230 | 🐛 7 | 🌐 Java | 📅 2023-12-24
 * [SCIM for keycloak](https://github.com/Captain-P-Goldfish/scim-for-keycloak) ⭐ 208 | 🐛 10 | 🌐 Java | 📅 2024-03-10
@@ -239,7 +239,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 * [embesozzi/keycloak-webauthn-conditional-mediation WebAuthn Support for Passkeys](https://github.com/embesozzi/keycloak-webauthn-conditional-mediation) ⭐ 28 | 🐛 2 | 🌐 FreeMarker | 📅 2024-01-20
 * [Keycloak: Link IdP Login with User Provider](https://github.com/ohioit/keycloak-link-idp-with-user) ⭐ 25 | 🐛 1 | 🌐 Java | 📅 2018-09-20
 * [Have I Been Pwned? Keycloak Password Policy](https://github.com/alexashley/keycloak-password-policy-have-i-been-pwned) ⭐ 24 | 🐛 2 | 🌐 Kotlin | 📅 2019-05-19
-* [Keycloak Redis Cache](https://github.com/p2-inc/keycloak-redis-cache) ⭐ 22 | 🐛 15 | 🌐 Java | 📅 2026-08-15
+* [Keycloak Redis Cache](https://github.com/p2-inc/keycloak-redis-cache) ⭐ 22 | 🐛 14 | 🌐 Java | 📅 2026-08-28
 * [Flexible IdP mapper for OIDC and SAML providers](https://github.com/LucaFilipozzi/keycloak-regex-mapper) ⭐ 21 | 🐛 82 | 🌐 Java | 📅 2026-02-16
 * [rciam/keycloak-group-management](https://github.com/rciam/keycloak-group-management) ⭐ 19 | 🐛 2 | 🌐 TypeScript | 📅 2026-08-24
 * [Keycloak reCAPTCHA Password Defense](https://github.com/califio/keycloak-recaptcha-password-defense) ⭐ 14 | 🐛 0 | 🌐 Java | 📅 2025-10-08
@@ -258,7 +258,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 * [(Send) Email on user creation](https://github.com/stfc/keycloak-email-on-user-creation) ⭐ 6 | 🐛 1 | 🌐 Java | 📅 2023-12-18
 * [SPIFFE SVID Client Authenticator for Keycloak](https://github.com/christian-posta/spiffe-svid-client-authenticator) ⭐ 5 | 🐛 0 | 🌐 Java | 📅 2025-07-23
 * [Keycloak Custom Modules for SRG hardening](https://github.com/mitre/keycloak-custom-policies) ⭐ 5 | 🐛 1 | 🌐 Java | 📅 2025-12-15
-* [Keycloak Testcontainer for Node.js](https://github.com/slemke/keycloak-testcontainer) ⭐ 4 | 🐛 2 | 🌐 TypeScript | 📅 2026-08-28
+* [Keycloak Testcontainer for Node.js](https://github.com/slemke/keycloak-testcontainer) ⭐ 4 | 🐛 1 | 🌐 TypeScript | 📅 2026-08-28
 * [Notification on Impersonation SebastEnn/impersonation-notification](https://github.com/SebastEnn/impersonation-notification) ⭐ 4 | 🐛 0 | 🌐 Java | 📅 2025-05-16
 * [OpenID Connect for Identity Assurance (OIDC4IDA) on Keycloak](https://github.com/Bredstone/Keycloak-Extension-OIDC4IDA) ⭐ 3 | 🐛 0 | 🌐 Java | 📅 2023-11-20
 * [JavaScript LDAP\_ID ScriptMapper by @netzbegruenung](https://github.com/netzbegruenung/keycloak-scriptmapper-ldap-id) ⭐ 2 | 🐛 0 | 🌐 JavaScript | 📅 2025-05-15
@@ -281,15 +281,15 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 ## Integrations
 
 * [Nerzal/gocloak Golang Keycloak API Package](https://github.com/Nerzal/gocloak) ⭐ 1,251 | 🐛 0 | 🌐 Go | 📅 2026-07-28
-* [zmartzone mod\_auth\_openidc for Apache 2.x](https://github.com/zmartzone/mod_auth_openidc) ⭐ 1,093 | 🐛 1 | 🌐 C | 📅 2026-08-27
-* [Keycloak Terraform Provider](https://github.com/mrparkers/terraform-provider-keycloak) ⭐ 945 | 🐛 342 | 🌐 Go | 📅 2026-08-24
+* [zmartzone mod\_auth\_openidc for Apache 2.x](https://github.com/zmartzone/mod_auth_openidc) ⭐ 1,093 | 🐛 1 | 🌐 C | 📅 2026-08-28
+* [Keycloak Terraform Provider](https://github.com/mrparkers/terraform-provider-keycloak) ⭐ 946 | 🐛 341 | 🌐 Go | 📅 2026-08-29
 * [python-keycloak](https://github.com/marcospereirampj/python-keycloak) ⭐ 882 | 🐛 151 | 🌐 Python | 📅 2026-02-15
 * [Official Keycloak Node.js Connect Adapter](https://github.com/keycloak/keycloak-nodejs-connect) ⭐ 740 | 🐛 70 | 🌐 JavaScript | 📅 2026-06-03
 * [React/NextJS Keycloak Bindings](https://github.com/panz3r/react-keycloak) ⚠️ Archived
 * [Keycloak OAuth2 Auth for PHP](https://github.com/stevenmaguire/oauth2-keycloak) ⭐ 227 | 🐛 40 | 🌐 PHP | 📅 2026-08-08
 * [Keycloak Connect GraphQL Adapter for Node.js](https://github.com/aerogear/keycloak-connect-graphql) ⚠️ Archived
 * [Apple Social Identity Provider for Keycloak](https://github.com/BenjaminFavre/keycloak-apple-social-identity-provider) ⭐ 117 | 🐛 22 | 🌐 Java | 📅 2023-03-09
-* [Extension Keycloak facilitant l'utilisation de FranceConnect](https://github.com/InseeFr/Keycloak-FranceConnect) ⭐ 106 | 🐛 9 | 🌐 Java | 📅 2026-08-26
+* [Extension Keycloak facilitant l'utilisation de FranceConnect](https://github.com/InseeFr/Keycloak-FranceConnect) ⭐ 106 | 🐛 10 | 🌐 Java | 📅 2026-08-28
 * [Keycloak Python Client](https://github.com/keycloak-client/keycloak-client) ⭐ 58 | 🐛 6 | 🌐 Python | 📅 2024-12-29
 * [Jenkins Keycloak Authentication Plugin](https://github.com/jenkinsci/keycloak-plugin) ⭐ 41 | 🐛 1 | 🌐 Java | 📅 2026-01-12
 * [HapiJS Keycloak Auth](https://github.com/felixheck/hapi-auth-keycloak) ⭐ 36 | 🐛 6 | 🌐 JavaScript | 📅 2023-03-06
@@ -318,7 +318,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 ## Themes
 
-* [keycloakify: Create Keycloak themes using React](https://github.com/InseeFrLab/keycloakify) ⭐ 2,558 | 🐛 85 | 🌐 TypeScript | 📅 2026-08-02
+* [keycloakify: Create Keycloak themes using React](https://github.com/InseeFrLab/keycloakify) ⭐ 2,559 | 🐛 85 | 🌐 TypeScript | 📅 2026-08-02
 * [Keywind: Component-based theme built with Tailwind CSS](https://github.com/lukin/keywind) ⭐ 904 | 🐛 47 | 🌐 HTML | 📅 2024-08-07
 * [GOV.UK Theme](https://github.com/UKHomeOffice/keycloak-theme-govuk) ⭐ 144 | 🐛 6 | 🌐 FreeMarker | 📅 2026-04-17
 * [A Keycloak theme based on the AdminLTE UI library](https://github.com/MAXIMUS-DeltaWare/adminlte-keycloak-theme) ⭐ 91 | 🐛 1 | 🌐 HTML | 📅 2019-08-30
@@ -341,8 +341,8 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 ## Kubernetes
 
-* [Deprecated Keycloak Helm Chart](https://github.com/codecentric/helm-charts/tree/master/charts/keycloak) ⭐ 741 | 🐛 5 | 🌐 Mustache | 📅 2026-08-25
-* [codecentric Keycloak Helm Chart](https://github.com/codecentric/helm-charts/tree/master/charts/keycloak) ⭐ 741 | 🐛 5 | 🌐 Mustache | 📅 2026-08-25
+* [Deprecated Keycloak Helm Chart](https://github.com/codecentric/helm-charts/tree/master/charts/keycloak) ⭐ 740 | 🐛 5 | 🌐 Mustache | 📅 2026-08-25
+* [codecentric Keycloak Helm Chart](https://github.com/codecentric/helm-charts/tree/master/charts/keycloak) ⭐ 740 | 🐛 5 | 🌐 Mustache | 📅 2026-08-25
 * [keycloak-operator](https://github.com/keycloak/keycloak-operator) ⚠️ Archived
 * [Import / Export Keycloak Config](https://gist.github.com/unguiculus/19618ef57b1863145262191944565c9d)
 
@@ -367,9 +367,9 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 ## Example Projects
 
-* [Official Examples](https://github.com/keycloak/keycloak/tree/master/examples) ⭐ 36,454 | 🐛 3,131 | 🌐 Java | 📅 2026-08-28
-* [Keycloak Quickstarts](https://github.com/keycloak/keycloak-quickstarts) ⭐ 2,356 | 🐛 63 | 🌐 Java | 📅 2026-08-19
-* [Example for using Keycloak Authorization with ASP.NET Core](https://github.com/NikiforovAll/keycloak-authorization-services-dotnet) ⭐ 672 | 🐛 10 | 🌐 C# | 📅 2026-06-02
+* [Official Examples](https://github.com/keycloak/keycloak/tree/master/examples) ⭐ 36,475 | 🐛 3,152 | 🌐 Java | 📅 2026-08-29
+* [Keycloak Quickstarts](https://github.com/keycloak/keycloak-quickstarts) ⭐ 2,357 | 🐛 63 | 🌐 Java | 📅 2026-08-19
+* [Example for using Keycloak Authorization with ASP.NET Core](https://github.com/NikiforovAll/keycloak-authorization-services-dotnet) ⭐ 671 | 🐛 10 | 🌐 C# | 📅 2026-06-02
 * [Keycloak Project Example (Customizations, Extensions, Configuration)](https://github.com/thomasdarimont/keycloak-project-example) ⭐ 393 | 🐛 23 | 🌐 Java | 📅 2026-08-20
 * [Angular Webapp secured with Keycloak](https://github.com/CodepediaOrg/bookmarks.dev) ⭐ 385 | 🐛 60 | 🌐 TypeScript | 📅 2026-08-28
 * [Examples from Keycloak Book: Keycloak - Identity and Access Management for Modern Applications](https://github.com/PacktPublishing/Keycloak-Identity-and-Access-Management-for-Modern-Applications) ⭐ 275 | 🐛 1 | 🌐 HTML | 📅 2026-04-22
@@ -395,7 +395,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 * [A Keycloak Mobile Implementation using Angular v4 and Ionic v3](https://github.com/tomjackman/keyonic-v2) ⭐ 24 | 🐛 7 | 🌐 TypeScript | 📅 2017-10-06
 * [Securing Realm Resources With Custom Roles](https://github.com/dteleguin/custom-admin-roles) ⭐ 15 | 🐛 0 | 🌐 Java | 📅 2016-08-29
 * [KeyCloak Extensions: Securing Realm Resources With Custom Roles](https://github.com/dteleguin/custom-admin-roles) ⭐ 15 | 🐛 0 | 🌐 Java | 📅 2016-08-29
-* [Keycloak as a Verifiable Credential Issuer with OID4VCI by Adorsys](https://github.com/adorsys/keycloak-ssi-deployment) ⭐ 14 | 🐛 12 | 🌐 Shell | 📅 2026-08-26
+* [Keycloak as a Verifiable Credential Issuer with OID4VCI by Adorsys](https://github.com/adorsys/keycloak-ssi-deployment) ⭐ 14 | 🐛 10 | 🌐 Shell | 📅 2026-08-28
 * [Red Hat Single Sign-On Labs](https://github.com/RedHatWorkshops/red-hat-sso) ⭐ 13 | 🐛 6 | 📅 2017-05-29
 * [Custom Keycloak Docker Image of Computer Science House of RIT](https://github.com/ComputerScienceHouse/keycloak-docker) ⭐ 8 | 🐛 1 | 🌐 Dockerfile | 📅 2025-12-19
 * [FAPI demo from DevConf.cz Mini: Secure digital transformation via keycloak's FAPI](https://github.com/mposolda/fapi-demo/tree/main) ⚠️ Archived
@@ -442,4 +442,4 @@ To the extent possible under law, [Thomas Darimont](https://github.com/thomasdar
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._
