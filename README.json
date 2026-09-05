@@ -17,11 +17,11 @@
                 "id": 11125589,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-04T19:42:58Z",
-                "open_issues": 3235,
+                "last_commit": "2026-09-05T00:48:09Z",
+                "open_issues": 3241,
                 "owner": "keycloak",
                 "repo": "keycloak",
-                "stars": 36605,
+                "stars": 36618,
                 "topics": [
                   "keycloak",
                   "oidc",
@@ -1748,7 +1748,7 @@
                 "open_issues": 1,
                 "owner": "Nerzal",
                 "repo": "gocloak",
-                "stars": 1251,
+                "stars": 1250,
                 "topics": [
                   "auth",
                   "authentication",
@@ -1803,7 +1803,7 @@
                 "id": 147036024,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-04T16:35:12Z",
+                "last_commit": "2026-09-05T02:08:46Z",
                 "open_issues": 346,
                 "owner": "keycloak",
                 "repo": "terraform-provider-keycloak",
@@ -2348,7 +2348,7 @@
                 "open_issues": 86,
                 "owner": "keycloakify",
                 "repo": "keycloakify",
-                "stars": 2565,
+                "stars": 2567,
                 "topics": [
                   "freemarker",
                   "ftl",
@@ -2738,7 +2738,7 @@
                 "open_issues": 51,
                 "owner": "adorsys",
                 "repo": "keycloak-config-cli",
-                "stars": 1183,
+                "stars": 1184,
                 "topics": [
                   "automation",
                   "configuration-as-code",
@@ -3059,11 +3059,11 @@
                 "id": 11125589,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-04T19:42:58Z",
-                "open_issues": 3235,
+                "last_commit": "2026-09-05T00:48:09Z",
+                "open_issues": 3241,
                 "owner": "keycloak",
                 "repo": "keycloak",
-                "stars": 36605,
+                "stars": 36618,
                 "topics": [
                   "keycloak",
                   "oidc",
@@ -3204,7 +3204,7 @@
                 "open_issues": 1,
                 "owner": "PacktPublishing",
                 "repo": "Keycloak-Identity-and-Access-Management-for-Modern-Applications",
-                "stars": 275,
+                "stars": 276,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:06:05.850Z"
@@ -3925,7 +3925,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T00:02:23.733Z",
+    "last_updated": "2026-09-05T23:52:54.840Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources for learning about http://www.keycloak.org",
