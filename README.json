@@ -17,11 +17,11 @@
                 "id": 11125589,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-05T00:48:09Z",
-                "open_issues": 3241,
+                "last_commit": "2026-09-06T00:46:01Z",
+                "open_issues": 3242,
                 "owner": "keycloak",
                 "repo": "keycloak",
-                "stars": 36618,
+                "stars": 36629,
                 "topics": [
                   "keycloak",
                   "oidc",
@@ -205,7 +205,7 @@
                 "open_issues": 8,
                 "owner": "anonrig",
                 "repo": "nestjs-keycloak-admin",
-                "stars": 191,
+                "stars": 190,
                 "topics": [
                   "javascript",
                   "keycloak",
@@ -398,7 +398,7 @@
                 "open_issues": 22,
                 "owner": "p2-inc",
                 "repo": "keycloak-orgs",
-                "stars": 541,
+                "stars": 542,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:06:05.850Z"
@@ -493,7 +493,7 @@
                 "open_issues": 45,
                 "owner": "netzbegruenung",
                 "repo": "keycloak-mfa-plugins",
-                "stars": 290,
+                "stars": 291,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:06:05.850Z"
@@ -604,7 +604,7 @@
                 "id": 584878035,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-02T23:58:43Z",
+                "last_commit": "2026-09-06T03:47:05Z",
                 "open_issues": 13,
                 "owner": "anarsultanov",
                 "repo": "keycloak-multi-tenancy",
@@ -2651,7 +2651,7 @@
                 "language": "Mustache",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-01T09:11:11Z",
-                "open_issues": 7,
+                "open_issues": 8,
                 "owner": "codecentric",
                 "repo": "helm-charts",
                 "stars": 742,
@@ -2679,7 +2679,7 @@
                 "language": "Mustache",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-01T09:11:11Z",
-                "open_issues": 7,
+                "open_issues": 8,
                 "owner": "codecentric",
                 "repo": "helm-charts",
                 "stars": 742,
@@ -2738,7 +2738,7 @@
                 "open_issues": 51,
                 "owner": "adorsys",
                 "repo": "keycloak-config-cli",
-                "stars": 1184,
+                "stars": 1185,
                 "topics": [
                   "automation",
                   "configuration-as-code",
@@ -2986,7 +2986,7 @@
                 "open_issues": 10,
                 "owner": "pulumi",
                 "repo": "pulumi-keycloak",
-                "stars": 52,
+                "stars": 53,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:06:05.850Z"
@@ -3059,11 +3059,11 @@
                 "id": 11125589,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-05T00:48:09Z",
-                "open_issues": 3241,
+                "last_commit": "2026-09-06T00:46:01Z",
+                "open_issues": 3242,
                 "owner": "keycloak",
                 "repo": "keycloak",
-                "stars": 36618,
+                "stars": 36629,
                 "topics": [
                   "keycloak",
                   "oidc",
@@ -3088,7 +3088,7 @@
                 "open_issues": 63,
                 "owner": "keycloak",
                 "repo": "keycloak-quickstarts",
-                "stars": 2357,
+                "stars": 2358,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:06:05.850Z"
@@ -3519,7 +3519,7 @@
                 "open_issues": 0,
                 "owner": "fschick",
                 "repo": "Keycloak.ASPNet.Angular",
-                "stars": 49,
+                "stars": 48,
                 "topics": [
                   "angular",
                   "aps-net",
@@ -3925,7 +3925,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T23:52:54.840Z",
+    "last_updated": "2026-09-06T23:51:52.038Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources for learning about http://www.keycloak.org",
@@ -3937,7 +3937,7 @@
       "open_issues": 10,
       "owner": "thomasdarimont",
       "repo": "awesome-keycloak",
-      "stars": 1938,
+      "stars": 1939,
       "topics": []
     },
     "original_repository_sha": "457a44c6428a3e6a6e95645866420834793b90e1",
