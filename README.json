@@ -17,11 +17,11 @@
                 "id": 11125589,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-12T02:55:37Z",
-                "open_issues": 3330,
+                "last_commit": "2026-09-13T03:12:55Z",
+                "open_issues": 3338,
                 "owner": "keycloak",
                 "repo": "keycloak",
-                "stars": 36741,
+                "stars": 36751,
                 "topics": [
                   "keycloak",
                   "oidc",
@@ -398,7 +398,7 @@
                 "open_issues": 22,
                 "owner": "p2-inc",
                 "repo": "keycloak-orgs",
-                "stars": 542,
+                "stars": 541,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:06:05.850Z"
@@ -1776,7 +1776,7 @@
                 "open_issues": 1,
                 "owner": "OpenIDC",
                 "repo": "mod_auth_openidc",
-                "stars": 1093,
+                "stars": 1094,
                 "topics": [
                   "access-control",
                   "apache-httpd",
@@ -2350,7 +2350,7 @@
                 "open_issues": 85,
                 "owner": "keycloakify",
                 "repo": "keycloakify",
-                "stars": 2573,
+                "stars": 2574,
                 "topics": [
                   "freemarker",
                   "ftl",
@@ -2737,10 +2737,10 @@
                 "language": "Java",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-10T11:45:26Z",
-                "open_issues": 50,
+                "open_issues": 51,
                 "owner": "adorsys",
                 "repo": "keycloak-config-cli",
-                "stars": 1187,
+                "stars": 1188,
                 "topics": [
                   "automation",
                   "configuration-as-code",
@@ -3061,11 +3061,11 @@
                 "id": 11125589,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-12T02:55:37Z",
-                "open_issues": 3330,
+                "last_commit": "2026-09-13T03:12:55Z",
+                "open_issues": 3338,
                 "owner": "keycloak",
                 "repo": "keycloak",
-                "stars": 36741,
+                "stars": 36751,
                 "topics": [
                   "keycloak",
                   "oidc",
@@ -3161,7 +3161,7 @@
                 "id": 69779247,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-11T19:11:06Z",
+                "last_commit": "2026-09-13T06:21:53Z",
                 "open_issues": 60,
                 "owner": "CodeverDotDev",
                 "repo": "codever",
@@ -3179,6 +3179,7 @@
                   "expressjs",
                   "keycloak",
                   "markdown",
+                  "markdwon",
                   "mongodb",
                   "mongoose",
                   "nodejs",
@@ -3927,7 +3928,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T23:59:19.657Z",
+    "last_updated": "2026-09-14T00:09:40.957Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources for learning about http://www.keycloak.org",
