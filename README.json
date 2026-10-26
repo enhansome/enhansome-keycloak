@@ -17,11 +17,11 @@
                 "id": 11125589,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-24T03:05:07Z",
-                "open_issues": 3347,
+                "last_commit": "2026-10-25T03:09:37Z",
+                "open_issues": 3356,
                 "owner": "keycloak",
                 "repo": "keycloak",
-                "stars": 37499,
+                "stars": 37511,
                 "topics": [
                   "keycloak",
                   "oidc",
@@ -1825,7 +1825,7 @@
                 "language": "Go",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-19T04:54:42Z",
-                "open_issues": 371,
+                "open_issues": 373,
                 "owner": "keycloak",
                 "repo": "terraform-provider-keycloak",
                 "stars": 955,
@@ -2371,7 +2371,7 @@
                 "open_issues": 87,
                 "owner": "keycloakify",
                 "repo": "keycloakify",
-                "stars": 2603,
+                "stars": 2602,
                 "topics": [
                   "freemarker",
                   "ftl",
@@ -3167,11 +3167,11 @@
                 "id": 11125589,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-24T03:05:07Z",
-                "open_issues": 3347,
+                "last_commit": "2026-10-25T03:09:37Z",
+                "open_issues": 3356,
                 "owner": "keycloak",
                 "repo": "keycloak",
-                "stars": 37499,
+                "stars": 37511,
                 "topics": [
                   "keycloak",
                   "oidc",
@@ -3267,7 +3267,7 @@
                 "id": 69779247,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-24T15:36:04Z",
+                "last_commit": "2026-10-25T20:01:55Z",
                 "open_issues": 58,
                 "owner": "CodeverDotDev",
                 "repo": "codever",
@@ -3723,7 +3723,7 @@
                 "open_issues": 0,
                 "owner": "christian-posta",
                 "repo": "keycloak-agent-identity",
-                "stars": 32,
+                "stars": 33,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:06:05.850Z"
@@ -4034,7 +4034,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T00:19:27.168Z",
+    "last_updated": "2026-10-26T00:19:49.330Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources for learning about http://www.keycloak.org",
