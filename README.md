@@ -52,7 +52,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 ## Community, SIGs, Discussion Forums and Mailing Lists
 
-* [GitHub Discussions](https://github.com/keycloak/keycloak/discussions) ⭐ 37,918 | 🐛 3,597 | 🌐 Java | 📅 2026-11-17
+* [GitHub Discussions](https://github.com/keycloak/keycloak/discussions) ⭐ 37,942 | 🐛 3,602 | 🌐 Java | 📅 2026-11-19
 * [Keycloak OAuth SIG](https://github.com/keycloak/kc-sig-fapi) ⭐ 104 | 🐛 15 | 🌐 Shell | 📅 2026-11-17
 * [Keycloak SRE SIG](https://github.com/keycloak/keycloak-sre-sig) ⭐ 30 | 🐛 7 | 🌐 Handlebars | 📅 2026-11-03
 * [Keycloak Users Google Group](https://groups.google.com/forum/#!forum/keycloak-user)
@@ -156,7 +156,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 ## Talks
 
-* [Keycloak IGA (Keycloak fork)](https://github.com/tide-foundation/keycloak-IGA) ⭐ 12 | 🐛 5 | 🌐 Java | 📅 2026-11-17
+* [Keycloak IGA (Keycloak fork)](https://github.com/tide-foundation/keycloak-IGA) ⭐ 12 | 🐛 5 | 🌐 Java | 📅 2026-11-18
 * [JDD2015 - Keycloak Open Source Identity and Access Management Solution](https://www.youtube.com/watch?v=TuEkj25lbd0)
 * [2015 Using Tomcat and Keycloak in an iFrame](https://www.youtube.com/watch?v=nF_lw7uIxao)
 * [2016 You've Got Microservices Now Secure Them](https://www.youtube.com/watch?v=SfVhqf-rMQY)
@@ -199,7 +199,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 * [Keycloak Node.js TypeScript Admin Client by Canner](https://github.com/Canner/keycloak-admin/) ⚠️ Archived
 * [Keycloak Nest.js Admin Client by Relevant Fruit](https://github.com/relevantfruit/nestjs-keycloak-admin) ⭐ 190 | 🐛 8 | 🌐 TypeScript | 📅 2023-06-29
-* [Keycloak Mock Library](https://github.com/TNG/keycloak-mock) ⭐ 133 | 🐛 4 | 🌐 Java | 📅 2026-11-13
+* [Keycloak Mock Library](https://github.com/TNG/keycloak-mock) ⭐ 133 | 🐛 9 | 🌐 Java | 📅 2026-11-18
 * [.NET / C# Keycloak.RestApiClient](https://github.com/fschick/Keycloak.RestApiClient) ⭐ 88 | 🐛 0 | 🌐 Mustache | 📅 2026-09-23
 * [Keycloak Go Client by Cloudtrust](https://github.com/cloudtrust/keycloak-client) ⭐ 25 | 🐛 1 | 🌐 Go | 📅 2026-11-17
 * [ACKC: Python API Client for Keycloak](https://github.com/acie-io/ackc) ⭐ 0 | 🐛 4 | 🌐 Python | 📅 2025-08-07
@@ -210,14 +210,14 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 * [Keyloak Proxy written in Go](https://github.com/gambol99/keycloak-proxy) ⚠️ Archived
 * [Keycloak Metrics SPI](https://github.com/aerogear/keycloak-metrics-spi) ⭐ 615 | 🐛 62 | 🌐 Java | 📅 2024-11-08
 * [Organizations for Keycloak by Phase Two](https://github.com/p2-inc/keycloak-orgs) ⭐ 546 | 🐛 14 | 🌐 Java | 📅 2026-11-16
-* [MagicLink Authenticator by Phase Two](https://github.com/p2-inc/keycloak-magic-link) ⭐ 432 | 🐛 10 | 🌐 Java | 📅 2026-11-16
+* [MagicLink Authenticator by Phase Two](https://github.com/p2-inc/keycloak-magic-link) ⭐ 433 | 🐛 10 | 🌐 Java | 📅 2026-11-16
 * [Keycloak: Home IdP Discovery extension](https://github.com/sventorben/keycloak-home-idp-discovery) ⭐ 344 | 🐛 23 | 🌐 Java | 📅 2026-11-16
 * [Useful Keycloak EventListenerProvider implementations and utilities](https://github.com/p2-inc/keycloak-events) ⭐ 318 | 🐛 7 | 🌐 Java | 📅 2026-11-17
 * [Keycloak MFA Plugins by @netzbegruenung](https://github.com/netzbegruenung/keycloak-mfa-plugins) ⭐ 303 | 🐛 52 | 🌐 Java | 📅 2026-11-02
 * [2FA with Code sent via Email](https://github.com/mesutpiskin/keycloak-2fa-email-authenticator) ⭐ 292 | 🐛 2 | 🌐 Java | 📅 2026-11-05
 * [zonaut/keycloak-extensions](https://github.com/zonaut/keycloak-extensions) ⭐ 229 | 🐛 7 | 🌐 Java | 📅 2023-12-24
 * [SCIM for keycloak](https://github.com/Captain-P-Goldfish/scim-for-keycloak) ⭐ 209 | 🐛 10 | 🌐 Java | 📅 2024-03-10
-* [Keycloak Benchmark Project](https://github.com/keycloak/keycloak-benchmark) ⭐ 179 | 🐛 32 | 🌐 Java | 📅 2026-11-16
+* [Keycloak Benchmark Project](https://github.com/keycloak/keycloak-benchmark) ⭐ 179 | 🐛 34 | 🌐 Java | 📅 2026-11-16
 * [Keycloak extension for creating multi-tenant IAM for B2B SaaS applications](https://github.com/anarsultanov/keycloak-multi-tenancy) ⚠️ Archived
 * [leroyguillaume/keycloak-bcrypt](https://github.com/leroyguillaume/keycloak-bcrypt) ⭐ 170 | 🐛 1 | 🌐 Java | 📅 2025-11-19
 * [Keycloak Discord Support](https://github.com/wadahiro/keycloak-discord) ⭐ 158 | 🐛 19 | 🌐 Java | 📅 2024-11-02
@@ -231,7 +231,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 * [Keycloak Trusted Device Support by @wouterh-dev](https://github.com/wouterh-dev/keycloak-spi-trusted-device) ⭐ 57 | 🐛 6 | 🌐 Java | 📅 2026-05-03
 * [Realm export REST resource by Cloudtrust](https://github.com/cloudtrust/keycloak-export) ⚠️ Archived
 * [evosec/keycloak-ipaddress-authenticator](https://github.com/evosec/keycloak-ipaddress-authenticator) ⭐ 51 | 🐛 6 | 🌐 Java | 📅 2026-01-30
-* [Keycloak Login with User Attribute](https://github.com/cnieg/keycloak-login-attribute) ⭐ 49 | 🐛 7 | 🌐 Java | 📅 2026-11-16
+* [Keycloak Login with User Attribute](https://github.com/cnieg/keycloak-login-attribute) ⭐ 49 | 🐛 4 | 🌐 Java | 📅 2026-11-18
 * [Keycloak Metrics based on Micrometer](https://github.com/kokuwaio/keycloak-event-metrics) ⭐ 44 | 🐛 1 | 🌐 Java | 📅 2026-11-15
 * [WS-FED Support](https://github.com/cloudtrust/keycloak-wsfed) ⭐ 38 | 🐛 27 | 🌐 Java | 📅 2021-07-01
 * [Admin Portal for User and Organization management by Phase Two](https://github.com/p2-inc/phasetwo-admin-portal) ⭐ 36 | 🐛 3 | 🌐 TypeScript | 📅 2026-11-16
@@ -283,19 +283,19 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 * [Nerzal/gocloak Golang Keycloak API Package](https://github.com/Nerzal/gocloak) ⭐ 1,255 | 🐛 5 | 🌐 Go | 📅 2026-11-15
 * [zmartzone mod\_auth\_openidc for Apache 2.x](https://github.com/zmartzone/mod_auth_openidc) ⭐ 1,100 | 🐛 0 | 🌐 C | 📅 2026-11-08
-* [Keycloak Terraform Provider](https://github.com/mrparkers/terraform-provider-keycloak) ⭐ 960 | 🐛 337 | 🌐 Go | 📅 2026-11-18
-* [python-keycloak](https://github.com/marcospereirampj/python-keycloak) ⭐ 886 | 🐛 155 | 🌐 Python | 📅 2026-02-15
+* [Keycloak Terraform Provider](https://github.com/mrparkers/terraform-provider-keycloak) ⭐ 960 | 🐛 339 | 🌐 Go | 📅 2026-11-19
+* [python-keycloak](https://github.com/marcospereirampj/python-keycloak) ⭐ 886 | 🐛 156 | 🌐 Python | 📅 2026-02-15
 * [Official Keycloak Node.js Connect Adapter](https://github.com/keycloak/keycloak-nodejs-connect) ⭐ 741 | 🐛 69 | 🌐 JavaScript | 📅 2026-06-03
 * [React/NextJS Keycloak Bindings](https://github.com/panz3r/react-keycloak) ⚠️ Archived
 * [Keycloak OAuth2 Auth for PHP](https://github.com/stevenmaguire/oauth2-keycloak) ⭐ 227 | 🐛 40 | 🌐 PHP | 📅 2026-08-08
 * [Keycloak Connect GraphQL Adapter for Node.js](https://github.com/aerogear/keycloak-connect-graphql) ⚠️ Archived
 * [Apple Social Identity Provider for Keycloak](https://github.com/BenjaminFavre/keycloak-apple-social-identity-provider) ⭐ 117 | 🐛 22 | 🌐 Java | 📅 2023-03-09
-* [Extension Keycloak facilitant l'utilisation de FranceConnect](https://github.com/InseeFr/Keycloak-FranceConnect) ⭐ 107 | 🐛 12 | 🌐 Java | 📅 2026-11-13
+* [Extension Keycloak facilitant l'utilisation de FranceConnect](https://github.com/InseeFr/Keycloak-FranceConnect) ⭐ 107 | 🐛 13 | 🌐 Java | 📅 2026-11-13
 * [Keycloak Python Client](https://github.com/keycloak-client/keycloak-client) ⭐ 58 | 🐛 6 | 🌐 Python | 📅 2024-12-29
 * [Jenkins Keycloak Authentication Plugin](https://github.com/jenkinsci/keycloak-plugin) ⭐ 41 | 🐛 1 | 🌐 Java | 📅 2026-09-19
 * [HapiJS Keycloak Auth](https://github.com/felixheck/hapi-auth-keycloak) ⭐ 36 | 🐛 6 | 🌐 JavaScript | 📅 2023-03-06
 * [mantelo (Python Admin Client)](https://github.com/derlin/mantelo) ⭐ 36 | 🐛 1 | 🌐 Python | 📅 2026-11-11
-* [Keyloak Integration for the German E-Health ID (GesundheitsID)](https://github.com/oviva-ag/ehealthid-relying-party) ⭐ 24 | 🐛 8 | 🌐 Java | 📅 2026-11-17
+* [Keyloak Integration for the German E-Health ID (GesundheitsID)](https://github.com/oviva-ag/ehealthid-relying-party) ⭐ 24 | 🐛 9 | 🌐 Java | 📅 2026-11-18
 * [Keycloak Open-Shift integration](https://github.com/keycloak/openshift-integration) ⚠️ Archived
 * [Vault Keycloak Plugin](https://github.com/Serviceware/vault-plugin-secrets-keycloak) ⭐ 20 | 🐛 2 | 🌐 Go | 📅 2026-11-10
 * [Keycloak, Kong and Konga setup scripts (local development)](https://github.com/JaouherK/Kong-konga-Keycloak) ⭐ 14 | 🐛 0 | 🌐 Shell | 📅 2021-11-01
@@ -319,12 +319,12 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 ## Themes
 
-* [keycloakify: Create Keycloak themes using React](https://github.com/InseeFrLab/keycloakify) ⭐ 2,624 | 🐛 92 | 🌐 TypeScript | 📅 2026-10-21
+* [keycloakify: Create Keycloak themes using React](https://github.com/InseeFrLab/keycloakify) ⭐ 2,625 | 🐛 92 | 🌐 TypeScript | 📅 2026-10-21
 * [Keywind: Component-based theme built with Tailwind CSS](https://github.com/lukin/keywind) ⭐ 904 | 🐛 46 | 🌐 HTML | 📅 2024-08-07
 * [GOV.UK Theme](https://github.com/UKHomeOffice/keycloak-theme-govuk) ⭐ 147 | 🐛 6 | 🌐 FreeMarker | 📅 2026-04-17
 * [A Keycloak theme based on the AdminLTE UI library](https://github.com/MAXIMUS-DeltaWare/adminlte-keycloak-theme) ⭐ 91 | 🐛 1 | 🌐 HTML | 📅 2019-08-30
-* [Tailcloakify: Tailwind CSS Keycloakify Theme](https://github.com/ALMiG-Kompressoren-GmbH/tailcloakify) ⭐ 83 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-17
-* [Tailcloakify - A Keycloak theme based on Keycloakify and Tailwind](https://github.com/ALMiG-Kompressoren-GmbH/tailcloakify) ⭐ 83 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-17
+* [Tailcloakify: Tailwind CSS Keycloakify Theme](https://github.com/ALMiG-Kompressoren-GmbH/tailcloakify) ⭐ 83 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-18
+* [Tailcloakify - A Keycloak theme based on Keycloakify and Tailwind](https://github.com/ALMiG-Kompressoren-GmbH/tailcloakify) ⭐ 83 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-18
 * [Phase Two: Extension for runtime loading of CSS themes](https://github.com/p2-inc/keycloak-themes) ⭐ 61 | 🐛 7 | 🌐 TypeScript | 📅 2026-11-16
 * [Phase Two: 3 CSS-only Keycloak theme examples](https://github.com/p2-inc/keycloak-themes/tree/main/examples) ⭐ 61 | 🐛 7 | 🌐 TypeScript | 📅 2026-11-16
 * [Phase Two: Keycloak login theme template](https://github.com/p2-inc/keycloak-theme-template) ⭐ 48 | 🐛 0 | 🌐 CSS | 📅 2026-10-27
@@ -354,7 +354,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 ## Tools
 
-* [keycloak-config-cli: Configuration as Code for Keycloak](https://github.com/adorsys/keycloak-config-cli) ⭐ 1,222 | 🐛 55 | 🌐 Java | 📅 2026-11-02
+* [keycloak-config-cli: Configuration as Code for Keycloak](https://github.com/adorsys/keycloak-config-cli) ⭐ 1,221 | 🐛 57 | 🌐 Java | 📅 2026-11-02
 * [louketo-proxy (FKA Gatekeeper)](https://github.com/louketo/louketo-proxy) ⚠️ Archived
 * [Keycloak on AWS](https://github.com/aws-samples/keycloak-on-aws) ⚠️ Archived
 * [tool to autogenerate an OpenAPI Specification for Keycloak's Admin API](https://github.com/ccouzens/keycloak-openapi) ⭐ 181 | 🐛 4 | 🌐 Rust | 📅 2026-10-23
@@ -363,7 +363,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 * [oidc-bash-client](https://github.com/please-openit/oidc-bash-client) ⭐ 127 | 🐛 1 | 🌐 Shell | 📅 2026-07-16
 * [aws-cdk construct library that allows you to create KeyCloak on AWS in TypeScript or Python](https://github.com/aws-samples/cdk-keycloak) ⚠️ Archived
 * [keycloak-scanner Python CLI](https://github.com/NeuronAddict/keycloak-scanner) ⭐ 69 | 🐛 5 | 🌐 Python | 📅 2024-07-06
-* [Keycloak Pulumi](https://github.com/pulumi/pulumi-keycloak) ⭐ 52 | 🐛 10 | 🌐 Makefile | 📅 2026-11-17
+* [Keycloak Pulumi](https://github.com/pulumi/pulumi-keycloak) ⭐ 52 | 🐛 11 | 🌐 Makefile | 📅 2026-11-18
 * [Keycloak Configurator](https://github.com/CycriLabs/keycloak-configurator) ⭐ 23 | 🐛 8 | 🌐 Java | 📅 2026-11-10
 * [kcac: Effective Access Export for Access Reviews](https://github.com/softika/kcac) ⭐ 0 | 🐛 1 | 🌐 Go | 📅 2026-10-14
 * [Keycloak RestAPI Postman Collection](https://www.postman.com/mverma99/workspace/my-workspace/collection/25610427-e8685d30-4671-45fe-812e-ca10dba1df28)
@@ -374,15 +374,15 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 ## Example Projects
 
-* [Official Examples](https://github.com/keycloak/keycloak/tree/master/examples) ⭐ 37,918 | 🐛 3,597 | 🌐 Java | 📅 2026-11-17
-* [Keycloak Quickstarts](https://github.com/keycloak/keycloak-quickstarts) ⭐ 2,372 | 🐛 65 | 🌐 Java | 📅 2026-11-12
-* [Example for using Keycloak Authorization with ASP.NET Core](https://github.com/NikiforovAll/keycloak-authorization-services-dotnet) ⭐ 671 | 🐛 9 | 🌐 C# | 📅 2026-06-02
+* [Official Examples](https://github.com/keycloak/keycloak/tree/master/examples) ⭐ 37,942 | 🐛 3,602 | 🌐 Java | 📅 2026-11-19
+* [Keycloak Quickstarts](https://github.com/keycloak/keycloak-quickstarts) ⭐ 2,371 | 🐛 65 | 🌐 Java | 📅 2026-11-12
+* [Example for using Keycloak Authorization with ASP.NET Core](https://github.com/NikiforovAll/keycloak-authorization-services-dotnet) ⭐ 671 | 🐛 11 | 🌐 C# | 📅 2026-06-02
 * [Keycloak Project Example (Customizations, Extensions, Configuration)](https://github.com/thomasdarimont/keycloak-project-example) ⭐ 393 | 🐛 23 | 🌐 Java | 📅 2026-09-30
 * [Angular Webapp secured with Keycloak](https://github.com/CodepediaOrg/bookmarks.dev) ⭐ 387 | 🐛 58 | 🌐 TypeScript | 📅 2026-11-13
 * [Examples from Keycloak Book: Keycloak - Identity and Access Management for Modern Applications](https://github.com/PacktPublishing/Keycloak-Identity-and-Access-Management-for-Modern-Applications) ⭐ 278 | 🐛 1 | 🌐 HTML | 📅 2026-04-22
 * [Spring Boot Keycloak Tutorial](https://github.com/sebastienblanc/spring-boot-keycloak-tutorial) ⭐ 202 | 🐛 7 | 🌐 Java | 📅 2018-01-17
 * [Keycloak Clustering examples](https://github.com/ivangfr/keycloak-clustered) ⭐ 199 | 🐛 9 | 🌐 Shell | 📅 2025-06-05
-* [Verifiable Credential Authentication with OpenID Connect (VC-AuthN OIDC)](https://github.com/bcgov/vc-authn-oidc) ⭐ 157 | 🐛 29 | 🌐 Python | 📅 2026-11-16
+* [Verifiable Credential Authentication with OpenID Connect (VC-AuthN OIDC)](https://github.com/bcgov/vc-authn-oidc) ⭐ 157 | 🐛 30 | 🌐 Python | 📅 2026-11-16
 * [Example of adding API Key authentication to Keycloak](https://github.com/zak905/keycloak-api-key-demo) ⭐ 151 | 🐛 4 | 🌐 Java | 📅 2026-11-12
 * [BeerCloak: a comprehensive KeyCloak extension example](https://github.com/dteleguin/beercloak) ⭐ 144 | 🐛 2 | 🌐 Java | 📅 2023-08-22
 * [Keycloak - Experimental extensions by Stian Thorgersen/Keycloak](https://github.com/stianst/keycloak-experimental) ⭐ 136 | 🐛 2 | 🌐 Java | 📅 2022-03-18
@@ -450,4 +450,4 @@ To the extent possible under law, [Thomas Darimont](https://github.com/thomasdar
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-19._
